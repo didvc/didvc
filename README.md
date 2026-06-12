@@ -8,6 +8,26 @@ Ich bin ein 23-jähriger, hetero, japanischer Mann. Ich bin offen für Freundsch
 
 ---
 
-`https://identity-vulpes.pages.dev/` / Leave your message
+`https://identity-vulpes.pages.dev/` / Leave a message
 
 { gen_z, cryptology, arts, linguistics, neko } ©2026 Vulpes,
+
+---
+
+Views are my own and do not represent any affiliation I may belong to.
+
+<details>
+<summary>The Content is cryptographically verifiable by Opentimestamps.org. </summary>
+
+<pre></pre>
+
+1. Download `https://didvc.pages.dev/canonical.jsonl`, `https://didvc.pages.dev/canonical.jsonl.ots` 
+2. Open `Opentimestamps.org` in your browser, drag and drop the ots file then the jsonl file into the drop section.
+
+This is one example of how protecting your identity, creation through the self-sovereign identity (SSI) philosophy works.
+
+(The existence and integrity of this content is cryptographically timestamped and verifiable on the Bitcoin blockchain via OpenTimestamps.)
+
+<pre></pre>
+
+</details>
