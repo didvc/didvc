@@ -1,16 +1,40 @@
-Ich bin Student an der Universität Tokio und ich gehe gerne auf Ausstellungen zeitgenössischer Kunst oder höre mir Orchesterkonzerte an.
+While I use AI is for coding projects and learning, I see issues in the way it influences drawings, 3D, text content, artworks, culture and history, the web, and individual identity. That's how I started exploring ZKP, cryptography.
 
-Ich nutze KI für Entwicklung und Selbststudium, aber mir gefällt nicht, wie KI Illustrationen, 3D-Modelle, Artikel und Texte, andere kreative Werke und Kunst, die Kulturanthropologie, die Menschheitsgeschichte und -kultur, das Internet und die Identität von Menschen zerstört. Das hat mich motiviert, mich mit DID/VC, ZKP, Kryptographie und Web3 zu beschäftigen  ـــــــــــــــــــــﮩ٨ـ
+I explore tools like provenance tracking with OpenTimestamps, selective disclosure in agentic systems, verifiable credentials, and C2PA standards to better protect digital arts and maintain control over content origins.
 
-Ich mag etwas ungewöhnlich wirken, aber ich möchte mich wirklich mit Menschen vernetzen, die meine Werte teilen, nicht nur mit technisch versierten.
+---
 
-Ich bin ein 23-jähriger, hetero, japanischer Mann. Ich bin offen für Freundschaften und Beziehungen, aber ich bin bereits ausgebildet, also kein Geldgespräch. Tschüss .☘︎ ݁˖
+<!-- projects:start -->
+**[c2pa](https://github.com/didvc/c2pa)** · [docs ↗](https://didvc.github.io/c2pa/)  
+C2PA examined from the standpoint of artistic authorship  
+<sub>ai-art · art · artist · artists · arts · authorship · c2pa · content-credentials · creative-tools · cryptography · digital-art · manifests · provenance</sub>
+
+**[agent.txtar](https://github.com/didvc/agent.txtar)** · [docs ↗](https://didvc.github.io/agent.txtar/)  
+Portable text block for giving structured context to AI agents — embed anywhere, parse anywhere  
+<sub>agentic · ai · ai-agents · context · embeddable · go · javascript · llm · open-standard · portable · protocol · python · schema · specification · structured-data · text-format · txtar · typescript</sub>
+
+**[simple-ots](https://github.com/didvc/simple-ots)** · [docs ↗](https://didvc.github.io/simple-ots/)  
+Hash files, build a Merkle tree, anchor to Bitcoin via OpenTimestamps. Selective disclosure without ZKP.  
+<sub>audit-trail · bitcoin · blockchain · cli · cryptography · data-integrity · decentralized-identifiers · did · file-integrity · go · golang · hashing · merkle-tree · opentimestamps · provenance · selective-disclosure · sha256 · timestamp · timestamping</sub>
+
+**[rtx-manual-to-md](https://github.com/didvc/rtx-manual-to-md)** · [docs ↗](https://didvc.github.io/rtx-manual-to-md/)  
+Convert the Yamaha RTX router command reference HTML archive to GitHub Flavored Markdown — for LLM ingestion, RAG pipelines, and offline browsing.  
+<sub>cheerio · cli · command-reference · converter · docs-converter · html-to-markdown · llm · markdown · network-management · network-tools · networking · rag · router · rtx · rtx1200 · typescript · yamaha</sub>
+
+**[astro-html-editor](https://github.com/didvc/astro-html-editor)** · [docs ↗](https://didvc.github.io/astro-html-editor/)  
+Self-hosted HTML editor with live preview. Astro SSR + plain JavaScript, server-side file persistence.  
+<sub>astro · code-editor · developer-tools · file-manager · html · html-editor · live-preview · local-first · nodejs · plainjs · real-time · self-hosted · split-pane · ssr · typescript · vanilla-js · web-editor</sub>
+
+**[http-status-monitor](https://github.com/didvc/http-status-monitor)** · [docs ↗](https://didvc.github.io/http-status-monitor/)  
+CLI that runs lychee against a URL list and tracks HTTP status/asset changes over time  
+<sub>change-detection · cli · devops · diff-tracking · http-monitoring · http-status · link-checker · lychee · monitoring-tool · nodejs · site-health · site-monitoring · status-monitor · synthetic-monitoring · typescript · uptime-monitor · victoriametrics · waterfall-monitoring · web-monitoring · website-monitoring</sub>
+<!-- projects:end -->
 
 ---
 
 `https://identity-vulpes.pages.dev/` / Leave a message
 
-{ gen_z, cryptology, arts, linguistics, neko } ©2026 Vulpes,
+{ gen_z, cryptology, arts, linguistics, provenance } ©2026 Vulpes — text licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ---
 
