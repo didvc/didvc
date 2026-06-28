@@ -2,7 +2,10 @@ While I use AI is for coding projects and learning, I see issues in the way it i
 
 I explore tools like provenance tracking with OpenTimestamps, selective disclosure in agentic systems, verifiable credentials, and C2PA standards to better protect digital arts and maintain control over content origins.
 
----
+<details>
+<summary>Projects</summary>
+
+<pre></pre>
 
 <!-- projects:start -->
 **[c2pa](https://github.com/didvc/c2pa)** · [docs ↗](https://didvc.github.io/c2pa/)  
@@ -30,11 +33,15 @@ CLI that runs lychee against a URL list and tracks HTTP status/asset changes ove
 <sub>change-detection · cli · devops · diff-tracking · http-monitoring · http-status · link-checker · lychee · monitoring-tool · nodejs · site-health · site-monitoring · status-monitor · synthetic-monitoring · typescript · uptime-monitor · victoriametrics · waterfall-monitoring · web-monitoring · website-monitoring</sub>
 <!-- projects:end -->
 
+<pre></pre>
+
+</details>
+
 ---
 
 `https://identity-vulpes.pages.dev/` / Leave a message
 
-{ gen_z, cryptology, arts, linguistics, provenance } ©2026 Vulpes — text licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+{ gen_z, cryptology, arts, linguistics, provenance } ©2026 Vulpes
 
 ---
 
@@ -51,6 +58,17 @@ Views are my own and do not represent any affiliation I may belong to.
 This is one example of how protecting your identity, creation through the self-sovereign identity (SSI) philosophy works.
 
 (The existence and integrity of this content is cryptographically timestamped and verifiable on the Bitcoin blockchain via OpenTimestamps.)
+
+<pre></pre>
+
+</details>
+
+<details>
+<summary>Licenses</summary>
+
+<pre></pre>
+
+Code = MIT, Text content = CC BY 4.0
 
 <pre></pre>
 
