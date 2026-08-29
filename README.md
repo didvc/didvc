@@ -31,6 +31,10 @@ Self-hosted HTML editor with live preview. Astro SSR + plain JavaScript, server-
 **[http-status-monitor](https://github.com/didvc/http-status-monitor)** · [docs ↗](https://didvc.github.io/http-status-monitor/)  
 CLI that runs lychee against a URL list and tracks HTTP status/asset changes over time  
 <sub>change-detection · cli · devops · diff-tracking · http-monitoring · http-status · link-checker · lychee · monitoring-tool · nodejs · site-health · site-monitoring · status-monitor · synthetic-monitoring · typescript · uptime-monitor · victoriametrics · waterfall-monitoring · web-monitoring · website-monitoring</sub>
+
+**[uptime-mon](https://github.com/didvc/uptime-mon)**  
+Lightweight single-binary endpoint uptime monitor. Probes HTTP, keyword, ICMP and TCP targets on a schedule, appends results as zstd-compressed InfluxDB line protocol, and reads them back in a terminal UI with exact percentiles, outage structure and Apdex. Imports Uptime Kuma backups. No web server, no database, no alerting.  
+<sub>golang · line-protocol · observability · self-hosted · uptime-monitoring</sub>
 <!-- projects:end -->
 
 <pre></pre>
