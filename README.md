@@ -67,6 +67,38 @@ This is one example of how protecting your identity, creation through the self-s
 
 </details>
 
+
+<details>
+<summary>Do you need my help?</summary>
+
+<pre></pre>
+
+I usually work on fully online regardless of in flex or as a part-time job, but for certain countries (i.e. Austria, Germany, Denmark, Switzerland) I am willing to have a trip for you/your company. For any inquiries, directly contact me through the @duck email address shown on the left side on this page.
+
+<pre></pre>
+
+</details>
+
+
+<details>
+<summary>Seeking a Relationship?</summary>
+
+<pre></pre>
+
+If you found Aesthetic Vulpes through the advanced search or any recon or agentic ways over the sea of GitHub / Internet, and you're personally interested in Aesthetic Vulpes, I have no objection to accept your offer to have talks. For a friendly relations, particularly no criteria. For a possibly romantic relationship, the following is a basic criteria.
+
+- You're (I'm) a geeky person (not about fashion/appearance; about your inner-self/mind/lifestyle.)
+- You prefer (I prefer) to hang out / spend indoor rather than outdoor
+- You're a genetic/biological female, AND a hetero or a bi
+- You're (I'm) not a type of individual who lies/hides when asked about serious matters. (for example, biological/health status, money problems, etc.)
+
+note: I am single as of Sept 2026. The availability may vary over time, please verify the availability accordingly.
+
+<pre></pre>
+
+</details>
+
+
 <details>
 <summary>Licenses</summary>
 
