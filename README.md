@@ -109,3 +109,43 @@ Code = MIT, Text content = CC BY 4.0
 <pre></pre>
 
 </details>
+
+---
+
+(Misc.)
+
+For my MyAnimeList, Chess.com, IMDb, Discord etc., ask me. 
+
+(plus: Pixiv, Goodreads, VocaDB, TradinView, YouTube, Liked, Wikipedia etc.)
+
+---
+
+<div>
+  <img src="https://raw.githubusercontent.com/didvc/my-github-playground/refs/heads/main/image0a_ghbg0.png">
+</div>
+
+
+<details>
+<summary>Music of the month</summary>
+
+<pre></pre>
+
+<div align="left">
+  <p>The Flea Waltz.</p>
+  <a href="https://www.youtube.com/watch?v=L6QtByukIPs" target="_blank" rel="noopener noreferrer">
+    <img width="40%" src="https://img.youtube.com/vi/L6QtByukIPs/hqdefault.jpg" alt="Watch video on YouTube">
+  </a>
+</div>
+
+<div align="right">
+  <p>Lilium cover by Grissini Project</p>
+  <a href="https://www.youtube.com/watch?v=JvCpCg0sGkg" target="_blank" rel="noopener noreferrer">
+    <img width="40%" src="https://img.youtube.com/vi/JvCpCg0sGkg/hqdefault.jpg" alt="Watch video on YouTube">
+  </a>
+</div>
+
+<pre></pre>
+
+</details>
+
+
