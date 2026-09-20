@@ -85,7 +85,7 @@ I usually work on fully online regardless of in flex or as a part-time job, but 
 
 <pre></pre>
 
-If you found Aesthetic Vulpes through the advanced search or any recon or agentic ways over the sea of GitHub / Internet, and you're personally interested in Aesthetic Vulpes, I have no objection to accept your offer to have talks. For a friendly relations, particularly no criteria. For a possibly romantic relationship, the following is a basic criteria.
+If you found Aesthetic Vulpes through the advanced search or any recon or agentic ways over the sea of GitHub / Internet, and you're personally interested in Aesthetic Vulpes, I have no objection to accept your offer to have talks. For friendly relations, particularly no criteria. For a possibly devoted relationship, the following is a basic criteria.
 
 - You're (I'm) a geeky person (not about fashion/appearance; about your inner-self/mind/lifestyle.)
 - You prefer (I prefer) to hang out / spend indoor rather than outdoor
