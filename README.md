@@ -106,6 +106,8 @@ note: while I'm single as of Sept 2026, it may change over time. Please ask the 
 
 Code = MIT, Text content = CC BY 4.0
 
+Cite: [https://github.com/didvc](https://github.com/didvc)
+
 <pre></pre>
 
 </details>
