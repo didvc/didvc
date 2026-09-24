@@ -59,13 +59,13 @@
 
 </details>
 
-<img src="assets/splitter.png" alt="" width="100%">
+<img src="assets/splitter-1.png" alt="" width="100%">
 
 `https://identity-vulpes.pages.dev/` / 留言給我
 
 { gen_z, cryptology, arts, linguistics, provenance } ©2026 Vulpes
 
-<img src="assets/splitter.png" alt="" width="100%">
+<img src="assets/splitter-2.png" alt="" width="100%">
 
 此處觀點僅代表我個人，不代表我可能所屬的任何組織。
 
@@ -130,7 +130,7 @@
 
 </details>
 
-<img src="assets/splitter.png" alt="" width="100%">
+<img src="assets/splitter-3.png" alt="" width="100%">
 
 （其他）
 

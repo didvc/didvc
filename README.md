@@ -61,13 +61,13 @@ Super Simple Highlighter, the text highlighter Chrome extension, super enhanced.
 
 </details>
 
-<img src="assets/splitter.png" alt="" width="100%">
+<img src="assets/splitter-1.png" alt="" width="100%">
 
 `https://identity-vulpes.pages.dev/` / Leave a message
 
 { gen_z, cryptology, arts, linguistics, provenance } ©2026 Vulpes
 
-<img src="assets/splitter.png" alt="" width="100%">
+<img src="assets/splitter-2.png" alt="" width="100%">
 
 Views are my own and do not represent any affiliation I may belong to.
 
@@ -132,7 +132,7 @@ Cite: [https://github.com/didvc](https://github.com/didvc)
 
 </details>
 
-<img src="assets/splitter.png" alt="" width="100%">
+<img src="assets/splitter-3.png" alt="" width="100%">
 
 (Misc.)
 

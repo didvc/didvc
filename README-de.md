@@ -59,13 +59,13 @@ Super Simple Highlighter, die Chrome-Erweiterung zum Markieren von Text – supe
 
 </details>
 
-<img src="assets/splitter.png" alt="" width="100%">
+<img src="assets/splitter-1.png" alt="" width="100%">
 
 `https://identity-vulpes.pages.dev/` / Hinterlasse eine Nachricht
 
 { gen_z, cryptology, arts, linguistics, provenance } ©2026 Vulpes
 
-<img src="assets/splitter.png" alt="" width="100%">
+<img src="assets/splitter-2.png" alt="" width="100%">
 
 Die hier geäußerten Ansichten sind meine eigenen und vertreten keine Organisation, der ich möglicherweise angehöre.
 
@@ -130,7 +130,7 @@ Zitieren: [https://github.com/didvc](https://github.com/didvc)
 
 </details>
 
-<img src="assets/splitter.png" alt="" width="100%">
+<img src="assets/splitter-3.png" alt="" width="100%">
 
 (Sonstiges)
 

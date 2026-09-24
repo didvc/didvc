@@ -59,13 +59,13 @@ Windowsデスクトップ向けのリプレイバッファソフトウェア。�
 
 </details>
 
-<img src="assets/splitter.png" alt="" width="100%">
+<img src="assets/splitter-1.png" alt="" width="100%">
 
 `https://identity-vulpes.pages.dev/` / メッセージを残す
 
 { gen_z, cryptology, arts, linguistics, provenance } ©2026 Vulpes
 
-<img src="assets/splitter.png" alt="" width="100%">
+<img src="assets/splitter-2.png" alt="" width="100%">
 
 ここでの見解は個人的なものであり、私が所属する可能性のあるいかなる組織の見解を代表するものでもありません。
 
@@ -130,7 +130,7 @@ GitHubやインターネットの海の中から、高度な検索、リポジ�
 
 </details>
 
-<img src="assets/splitter.png" alt="" width="100%">
+<img src="assets/splitter-3.png" alt="" width="100%">
 
 （その他）
 
