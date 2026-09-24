@@ -139,7 +139,7 @@ Nach meinen Profilen auf MyAnimeList, Chess.com, IMDb, Discord usw. kannst du mi
 (außerdem: Pixiv, Goodreads, VocaDB, TradingView, YouTube, Liked, Wikipedia usw.)
 
 <div>
-  <img src="https://raw.githubusercontent.com/didvc/my-github-playground/refs/heads/main/image0a_ghbg0.png">
+  <img src="assets/image0a_ghbg0.png">
 </div>
 
 

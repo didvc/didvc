@@ -139,7 +139,7 @@
 （另外還有：Pixiv、Goodreads、VocaDB、TradingView、YouTube、Liked、Wikipedia 等）
 
 <div>
-  <img src="https://raw.githubusercontent.com/didvc/my-github-playground/refs/heads/main/image0a_ghbg0.png">
+  <img src="assets/image0a_ghbg0.png">
 </div>
 
 
