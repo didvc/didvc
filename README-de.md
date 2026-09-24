@@ -13,37 +13,59 @@ Ich beschäftige mich mit Werkzeugen wie Provenienz-Tracking mit OpenTimestamps,
 Erstelle deine eigene Vocaloid-, Synthesizer-V- oder beliebige Musik-Playlist aus YouTube  
 <sub>japanese-learning · music · synthesizer-v · synthv · youtube</sub>
 
+<img src="https://raw.githubusercontent.com/voca-synth/my-synthv-list/main/docs/screenshots/hero.png" alt="my-synthv-list" width="480">
+
+<hr>
+
 [manga-vastai](https://github.com/anime-research/manga-vastai)  
 Nachbau einer Orchestrierung zur Produktion von Lern-Yonkoma (Vier-Panel-Manga) mit Stable Diffusion auf Vast.ai  
 <sub>agentic-orchestration · education · manga · stable-diffusion-cpp · vast-ai · vastai · yonkoma</sub>
+
+<img src="https://raw.githubusercontent.com/anime-research/manga-vastai/main/outputs/runs/m10_gijutsushi/sheets/w39_mizunomichi__lettered__deltas.jpg" alt="manga-vastai" width="480">
+
+<hr>
 
 [lpchart](https://github.com/didvc/lpchart)  
 InfluxDB Line Protocol direkt im Terminal als Diagramm darstellen. Mit erweiterten Statistiken (stats++)  
 <sub>data-explorer · golang · influxdb · line-protocol · metrics · observability · timeseries · timeseries-analysis · timeseries-data · tui-go</sub>
 
+<img src="https://raw.githubusercontent.com/didvc/lpchart/master/docs/images/browser.png" alt="lpchart" width="480">
+
+<hr>
+
 [dead-mans-ping](https://github.com/didvc/dead-mans-ping)  
 Totmannschalter, Anwesenheits-Beacon, Leerlauf-Benachrichtigung. Basierend auf Maus-(In-)Aktivität.  
 <sub>automation · dead-mans-switch · deadmanswitch · healthcheck · heartbeat · inactivity-monitor · mouse-activity · privacy · privacy-tools · tui-go</sub>
+
+<img src="https://raw.githubusercontent.com/didvc/dead-mans-ping/main/assets/demo-server.png" alt="dead-mans-ping" width="480">
+
+<hr>
 
 [simple-desktop-replay](https://github.com/didvc/simple-desktop-replay)  
 Replay-Buffer-Software für den Windows-Desktop. Leichtgewichtig, ressourcenschonend, von Grund auf in Rust.  
 <sub>desktop-duplication · dvr · instant-replay · replay-buffer · screen-capture · screen-recorder · video-encoding · windows</sub>
 
+<img src="https://raw.githubusercontent.com/didvc/simple-desktop-replay/main/images/viewer-live.png" alt="simple-desktop-replay" width="480">
+
+<hr>
+
 [better-super-simple-highlighter](https://github.com/didvc/better-super-simple-highlighter)  
 Super Simple Highlighter, die Chrome-Erweiterung zum Markieren von Text – super erweitert.  
 <sub>annotation · chrome-extension · highlighter · highlighting · note-taking · notetaking · productivity · productivity-tool · web-annotation</sub>
+
+<img src="https://raw.githubusercontent.com/didvc/better-super-simple-highlighter/main/resources/screenshots/02-colour-picker.png" alt="better-super-simple-highlighter" width="480">
 
 <pre></pre>
 
 </details>
 
----
+<img src="assets/splitter.png" alt="" width="100%">
 
 `https://identity-vulpes.pages.dev/` / Hinterlasse eine Nachricht
 
 { gen_z, cryptology, arts, linguistics, provenance } ©2026 Vulpes
 
----
+<img src="assets/splitter.png" alt="" width="100%">
 
 Die hier geäußerten Ansichten sind meine eigenen und vertreten keine Organisation, der ich möglicherweise angehöre.
 
@@ -108,7 +130,7 @@ Zitieren: [https://github.com/didvc](https://github.com/didvc)
 
 </details>
 
----
+<img src="assets/splitter.png" alt="" width="100%">
 
 (Sonstiges)
 

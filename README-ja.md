@@ -13,37 +13,59 @@ AIはコーディングや学習などには便利ですが、イラスト、3D�
 YouTubeから、ボカロやSynthesizer V、そのほかどんな音楽でも自分だけのプレイリストを作成  
 <sub>japanese-learning · music · synthesizer-v · synthv · youtube</sub>
 
+<img src="https://raw.githubusercontent.com/voca-synth/my-synthv-list/main/docs/screenshots/hero.png" alt="my-synthv-list" width="480">
+
+<hr>
+
 [manga-vastai](https://github.com/anime-research/manga-vastai)  
 Vast.ai上のStable Diffusionで教育4コマ漫画の制作をオーケストレーションする再現  
 <sub>agentic-orchestration · education · manga · stable-diffusion-cpp · vast-ai · vastai · yonkoma</sub>
+
+<img src="https://raw.githubusercontent.com/anime-research/manga-vastai/main/outputs/runs/m10_gijutsushi/sheets/w39_mizunomichi__lettered__deltas.jpg" alt="manga-vastai" width="480">
+
+<hr>
 
 [lpchart](https://github.com/didvc/lpchart)  
 InfluxDBラインプロトコルをターミナル上でグラフ表示。統計機能もさらに充実（stats++）  
 <sub>data-explorer · golang · influxdb · line-protocol · metrics · observability · timeseries · timeseries-analysis · timeseries-data · tui-go</sub>
 
+<img src="https://raw.githubusercontent.com/didvc/lpchart/master/docs/images/browser.png" alt="lpchart" width="480">
+
+<hr>
+
 [dead-mans-ping](https://github.com/didvc/dead-mans-ping)  
 デッドマンスイッチ、在席ビーコン、アイドル通知。マウスの操作・無操作をもとに動作。  
 <sub>automation · dead-mans-switch · deadmanswitch · healthcheck · heartbeat · inactivity-monitor · mouse-activity · privacy · privacy-tools · tui-go</sub>
+
+<img src="https://raw.githubusercontent.com/didvc/dead-mans-ping/main/assets/demo-server.png" alt="dead-mans-ping" width="480">
+
+<hr>
 
 [simple-desktop-replay](https://github.com/didvc/simple-desktop-replay)  
 Windowsデスクトップ向けのリプレイバッファソフトウェア。軽量・低負荷で、設計段階からRust製。  
 <sub>desktop-duplication · dvr · instant-replay · replay-buffer · screen-capture · screen-recorder · video-encoding · windows</sub>
 
+<img src="https://raw.githubusercontent.com/didvc/simple-desktop-replay/main/images/viewer-live.png" alt="simple-desktop-replay" width="480">
+
+<hr>
+
 [better-super-simple-highlighter](https://github.com/didvc/better-super-simple-highlighter)  
 テキストハイライト用Chrome拡張機能「Super Simple Highlighter」を大幅に強化したもの。  
 <sub>annotation · chrome-extension · highlighter · highlighting · note-taking · notetaking · productivity · productivity-tool · web-annotation</sub>
+
+<img src="https://raw.githubusercontent.com/didvc/better-super-simple-highlighter/main/resources/screenshots/02-colour-picker.png" alt="better-super-simple-highlighter" width="480">
 
 <pre></pre>
 
 </details>
 
----
+<img src="assets/splitter.png" alt="" width="100%">
 
 `https://identity-vulpes.pages.dev/` / メッセージを残す
 
 { gen_z, cryptology, arts, linguistics, provenance } ©2026 Vulpes
 
----
+<img src="assets/splitter.png" alt="" width="100%">
 
 ここでの見解は個人的なものであり、私が所属する可能性のあるいかなる組織の見解を代表するものでもありません。
 
@@ -108,7 +130,7 @@ GitHubやインターネットの海の中から、高度な検索、リポジ�
 
 </details>
 
----
+<img src="assets/splitter.png" alt="" width="100%">
 
 （その他）
 

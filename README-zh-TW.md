@@ -13,37 +13,59 @@
 從 YouTube 建立屬於你自己的 Vocaloid、Synthesizer V 或任何音樂播放清單  
 <sub>japanese-learning · music · synthesizer-v · synthv · youtube</sub>
 
+<img src="https://raw.githubusercontent.com/voca-synth/my-synthv-list/main/docs/screenshots/hero.png" alt="my-synthv-list" width="480">
+
+<hr>
+
 [manga-vastai](https://github.com/anime-research/manga-vastai)  
 在 Vast.ai 上以 Stable Diffusion 編排教育用四格漫畫製作流程的重現  
 <sub>agentic-orchestration · education · manga · stable-diffusion-cpp · vast-ai · vastai · yonkoma</sub>
+
+<img src="https://raw.githubusercontent.com/anime-research/manga-vastai/main/outputs/runs/m10_gijutsushi/sheets/w39_mizunomichi__lettered__deltas.jpg" alt="manga-vastai" width="480">
+
+<hr>
 
 [lpchart](https://github.com/didvc/lpchart)  
 在終端機中將 InfluxDB line protocol 繪製成圖表，統計功能更強大（stats++）  
 <sub>data-explorer · golang · influxdb · line-protocol · metrics · observability · timeseries · timeseries-analysis · timeseries-data · tui-go</sub>
 
+<img src="https://raw.githubusercontent.com/didvc/lpchart/master/docs/images/browser.png" alt="lpchart" width="480">
+
+<hr>
+
 [dead-mans-ping](https://github.com/didvc/dead-mans-ping)  
 死人開關（dead man's switch）、在場信標、閒置通知。依據滑鼠活動／無活動運作。  
 <sub>automation · dead-mans-switch · deadmanswitch · healthcheck · heartbeat · inactivity-monitor · mouse-activity · privacy · privacy-tools · tui-go</sub>
+
+<img src="https://raw.githubusercontent.com/didvc/dead-mans-ping/main/assets/demo-server.png" alt="dead-mans-ping" width="480">
+
+<hr>
 
 [simple-desktop-replay](https://github.com/didvc/simple-desktop-replay)  
 適用於 Windows 桌面的重播緩衝（replay buffer）軟體。輕量、低負擔，從設計上就以 Rust 打造。  
 <sub>desktop-duplication · dvr · instant-replay · replay-buffer · screen-capture · screen-recorder · video-encoding · windows</sub>
 
+<img src="https://raw.githubusercontent.com/didvc/simple-desktop-replay/main/images/viewer-live.png" alt="simple-desktop-replay" width="480">
+
+<hr>
+
 [better-super-simple-highlighter](https://github.com/didvc/better-super-simple-highlighter)  
 文字螢光筆 Chrome 擴充功能「Super Simple Highlighter」的超級強化版。  
 <sub>annotation · chrome-extension · highlighter · highlighting · note-taking · notetaking · productivity · productivity-tool · web-annotation</sub>
+
+<img src="https://raw.githubusercontent.com/didvc/better-super-simple-highlighter/main/resources/screenshots/02-colour-picker.png" alt="better-super-simple-highlighter" width="480">
 
 <pre></pre>
 
 </details>
 
----
+<img src="assets/splitter.png" alt="" width="100%">
 
 `https://identity-vulpes.pages.dev/` / 留言給我
 
 { gen_z, cryptology, arts, linguistics, provenance } ©2026 Vulpes
 
----
+<img src="assets/splitter.png" alt="" width="100%">
 
 此處觀點僅代表我個人，不代表我可能所屬的任何組織。
 
@@ -108,7 +130,7 @@
 
 </details>
 
----
+<img src="assets/splitter.png" alt="" width="100%">
 
 （其他）
 

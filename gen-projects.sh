@@ -11,6 +11,16 @@ REPOS=(
   "didvc/better-super-simple-highlighter"
 )
 
+# Repo slug -> screenshot URL (optional)
+declare -A IMAGES=(
+  ["voca-synth/my-synthv-list"]="https://raw.githubusercontent.com/voca-synth/my-synthv-list/main/docs/screenshots/hero.png"
+  ["anime-research/manga-vastai"]="https://raw.githubusercontent.com/anime-research/manga-vastai/main/outputs/runs/m10_gijutsushi/sheets/w39_mizunomichi__lettered__deltas.jpg"
+  ["didvc/lpchart"]="https://raw.githubusercontent.com/didvc/lpchart/master/docs/images/browser.png"
+  ["didvc/dead-mans-ping"]="https://raw.githubusercontent.com/didvc/dead-mans-ping/main/assets/demo-server.png"
+  ["didvc/simple-desktop-replay"]="https://raw.githubusercontent.com/didvc/simple-desktop-replay/main/images/viewer-live.png"
+  ["didvc/better-super-simple-highlighter"]="https://raw.githubusercontent.com/didvc/better-super-simple-highlighter/main/resources/screenshots/02-colour-picker.png"
+)
+
 OUT="part.html"
 README="README.md"
 START="<!-- projects:start -->"
@@ -18,6 +28,7 @@ END="<!-- projects:end -->"
 
 > "$OUT"
 
+first=1
 for entry in "${REPOS[@]}"; do
   repo="${entry%%|*}"
   override=""
@@ -32,9 +43,17 @@ for entry in "${REPOS[@]}"; do
   topics=$(echo "$info" | jq -r '.topics | join(" · ")')
 
   {
+    if [[ -z "$first" ]]; then
+      printf '<hr>\n\n'
+    fi
+    first=""
     printf '[%s](%s)  \n' "$name" "$github_url"
     printf '%s  \n' "$description"
     printf '<sub>%s</sub>\n' "$topics"
+    image="${IMAGES[$repo]:-}"
+    if [[ -n "$image" ]]; then
+      printf '\n<img src="%s" alt="%s" width="480">\n' "$image" "$name"
+    fi
     printf '\n'
   } >> "$OUT"
 done
