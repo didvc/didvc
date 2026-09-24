@@ -1,3 +1,5 @@
+English · [日本語](README-ja.md) · [Deutsch](README-de.md) · [繁體中文](README-zh-TW.md)
+
 Although AI is nice for coding, learning, etc., I see issues in the way it influences drawings, 3D, text content, artworks, culture and history, the web, and individual identity. That's how I started exploring ZKP, cryptography.
 
 I explore tools like provenance tracking with OpenTimestamps, selective disclosure in agentic systems, verifiable credentials, and C2PA standards to better protect digital arts and maintain control over content origins.
@@ -8,33 +10,29 @@ I explore tools like provenance tracking with OpenTimestamps, selective disclosu
 <pre></pre>
 
 <!-- projects:start -->
-**[c2pa](https://github.com/didvc/c2pa)** · [docs ↗](https://didvc.github.io/c2pa/)  
-C2PA examined from the standpoint of artistic authorship  
-<sub>ai-art · art · artist · artists · arts · authorship · c2pa · content-credentials · creative-tools · cryptography · digital-art · manifests · provenance</sub>
+[my-synthv-list](https://github.com/voca-synth/my-synthv-list)  
+Create your own Vocaloid, Synthesizer V, or any music playlist from YouTube  
+<sub>japanese-learning · music · synthesizer-v · synthv · youtube</sub>
 
-**[agent.txtar](https://github.com/didvc/agent.txtar)** · [docs ↗](https://didvc.github.io/agent.txtar/)  
-Portable text block for giving structured context to AI agents — embed anywhere, parse anywhere  
-<sub>agentic · ai · ai-agents · context · embeddable · go · javascript · llm · open-standard · portable · protocol · python · schema · specification · structured-data · text-format · txtar · typescript</sub>
+[manga-vastai](https://github.com/anime-research/manga-vastai)  
+Reproduction: orchestrating educational yonkoma (4-panel manga) production with Stable Diffusion on Vast.ai  
+<sub>agentic-orchestration · education · manga · stable-diffusion-cpp · vast-ai · vastai · yonkoma</sub>
 
-**[simple-ots](https://github.com/didvc/simple-ots)** · [docs ↗](https://didvc.github.io/simple-ots/)  
-Hash files, build a Merkle tree, anchor to Bitcoin via OpenTimestamps. Selective disclosure without ZKP.  
-<sub>audit-trail · bitcoin · blockchain · cli · cryptography · data-integrity · decentralized-identifiers · did · file-integrity · go · golang · hashing · merkle-tree · opentimestamps · provenance · selective-disclosure · sha256 · timestamp · timestamping</sub>
+[lpchart](https://github.com/didvc/lpchart)  
+Chart InfluxDB line protocol in your terminal. stats++  
+<sub>data-explorer · golang · influxdb · line-protocol · metrics · observability · timeseries · timeseries-analysis · timeseries-data · tui-go</sub>
 
-**[rtx-manual-to-md](https://github.com/didvc/rtx-manual-to-md)** · [docs ↗](https://didvc.github.io/rtx-manual-to-md/)  
-Convert the Yamaha RTX router command reference HTML archive to GitHub Flavored Markdown — for LLM ingestion, RAG pipelines, and offline browsing.  
-<sub>cheerio · cli · command-reference · converter · docs-converter · html-to-markdown · llm · markdown · network-management · network-tools · networking · rag · router · rtx · rtx1200 · typescript · yamaha</sub>
+[dead-mans-ping](https://github.com/didvc/dead-mans-ping)  
+dead man's switch, presence beacon, idle notifier. mouse (in)activity based.  
+<sub>automation · dead-mans-switch · deadmanswitch · healthcheck · heartbeat · inactivity-monitor · mouse-activity · privacy · privacy-tools · tui-go</sub>
 
-**[astro-html-editor](https://github.com/didvc/astro-html-editor)** · [docs ↗](https://didvc.github.io/astro-html-editor/)  
-Self-hosted HTML editor with live preview. Astro SSR + plain JavaScript, server-side file persistence.  
-<sub>astro · code-editor · developer-tools · file-manager · html · html-editor · live-preview · local-first · nodejs · plainjs · real-time · self-hosted · split-pane · ssr · typescript · vanilla-js · web-editor</sub>
+[simple-desktop-replay](https://github.com/didvc/simple-desktop-replay)  
+The replay buffer software for the Windows desktop. Lightweight, low-overhead, Rust by design.  
+<sub>desktop-duplication · dvr · instant-replay · replay-buffer · screen-capture · screen-recorder · video-encoding · windows</sub>
 
-**[http-status-monitor](https://github.com/didvc/http-status-monitor)** · [docs ↗](https://didvc.github.io/http-status-monitor/)  
-CLI that runs lychee against a URL list and tracks HTTP status/asset changes over time  
-<sub>change-detection · cli · devops · diff-tracking · http-monitoring · http-status · link-checker · lychee · monitoring-tool · nodejs · site-health · site-monitoring · status-monitor · synthetic-monitoring · typescript · uptime-monitor · victoriametrics · waterfall-monitoring · web-monitoring · website-monitoring</sub>
-
-**[uptime-mon](https://github.com/didvc/uptime-mon)**  
-Lightweight single-binary endpoint uptime monitor. Probes HTTP, keyword, ICMP and TCP targets on a schedule, appends results as zstd-compressed InfluxDB line protocol, and reads them back in a terminal UI with exact percentiles, outage structure and Apdex. Imports Uptime Kuma backups. No web server, no database, no alerting.  
-<sub>golang · line-protocol · observability · self-hosted · uptime-monitoring</sub>
+[better-super-simple-highlighter](https://github.com/didvc/better-super-simple-highlighter)  
+Super Simple Highlighter, the text highlighter Chrome extension, super enhanced.  
+<sub>annotation · chrome-extension · highlighter · highlighting · note-taking · notetaking · productivity · productivity-tool · web-annotation</sub>
 <!-- projects:end -->
 
 <pre></pre>

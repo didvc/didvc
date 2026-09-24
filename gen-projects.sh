@@ -1,14 +1,14 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-# Repo slug | docs URL
+# Repo slug, optionally "|description" to override the GitHub one
 REPOS=(
-  "didvc/c2pa|https://didvc.github.io/c2pa/"
-  "didvc/agent.txtar|https://didvc.github.io/agent.txtar/"
-  "didvc/simple-ots|https://didvc.github.io/simple-ots/"
-  "didvc/rtx-manual-to-md|https://didvc.github.io/rtx-manual-to-md/"
-  "didvc/astro-html-editor|https://didvc.github.io/astro-html-editor/"
-  "didvc/http-status-monitor|https://didvc.github.io/http-status-monitor/"
+  "voca-synth/my-synthv-list"
+  "anime-research/manga-vastai|Reproduction: orchestrating educational yonkoma (4-panel manga) production with Stable Diffusion on Vast.ai"
+  "didvc/lpchart"
+  "didvc/dead-mans-ping"
+  "didvc/simple-desktop-replay"
+  "didvc/better-super-simple-highlighter"
 )
 
 OUT="part.html"
@@ -20,17 +20,19 @@ END="<!-- projects:end -->"
 
 for entry in "${REPOS[@]}"; do
   repo="${entry%%|*}"
-  docs_url="${entry##*|}"
+  override=""
+  [[ "$entry" == *"|"* ]] && override="${entry#*|}"
   name="${repo#*/}"
   github_url="https://github.com/$repo"
 
   echo "Fetching $repo..." >&2
   info=$(gh api "repos/$repo" --jq '{description: .description, topics: .topics}')
   description=$(echo "$info" | jq -r '.description')
+  [[ -n "$override" ]] && description="$override"
   topics=$(echo "$info" | jq -r '.topics | join(" · ")')
 
   {
-    printf '**[%s](%s)** · [docs ↗](%s)  \n' "$name" "$github_url" "$docs_url"
+    printf '[%s](%s)  \n' "$name" "$github_url"
     printf '%s  \n' "$description"
     printf '<sub>%s</sub>\n' "$topics"
     printf '\n'
