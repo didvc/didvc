@@ -81,18 +81,18 @@ I usually work on fully online regardless of in flex or as a part-time job, but 
 
 
 <details>
-<summary>Seeking a Relationship?</summary>
+<summary>Seeking a relationship?</summary>
 
 <pre></pre>
 
-If you found Aesthetic Vulpes through the advanced search or any recon or agentic ways over the sea of GitHub / Internet, and you're personally interested in Aesthetic Vulpes, I have no objection to accept your offer to have talks. For friendly relations, particularly no criteria. For a possibly devoted relationship, the following is the abstract criteria.
+If you found Aesthetic Vulpes through the advanced search or a repo or any recon or agentic ways over the sea of GitHub / Internet, and you're personally interested in Aesthetic Vulpes, I have no objection to accept your offer to have talks. For friendly relations, particularly no criteria. For a possibly devoted relationship, keep the abstract criteria in your mind shortly.
 
-- You're (I'm) a geeky person (not about fashion/appearance; about your inner-self/mind/lifestyle.)
+- You're (I'm) a geeky person (not about fashion/appearance; about your mind/lifestyle.)
 - You prefer (I prefer) to hang out / spend indoor rather than outdoor
-- You're a genetic/biological female, AND a hetero or a bi
-- You're (I'm) not a type of individual who lies/hides when asked about serious matters. (for example, biological/health status, money problems, etc.)
+- You're a genetic AND biological female AND a hetero or a bi (I'm a hetero. I don't mind about your orientations.)
+- You're (I'm) not a type of individual who lies/hides when asked about serious matters. (for example, health status, money problems, etc.)
 
-note: I am single as of Sept 2026. The availability may vary over time, please verify the availability accordingly.
+note: while I'm single as of Sept 2026, it may change over time. Please ask the availability whenever you're ready.
 
 <pre></pre>
 
