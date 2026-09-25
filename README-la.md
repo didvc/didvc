@@ -119,7 +119,7 @@ Citatio: [https://github.com/didvc](https://github.com/didvc)
 
 De rationibus meis in MyAnimeList, Chess.com, IMDb, Discord etc. me interroga.
 
-(praeterea: Pixiv, Goodreads, VocaDB, TradingView, YouTube, Liked, Wikipedia etc.)
+(praeterea: Pixiv, Goodreads, VocaDB, TradinView, YouTube, Liked, Wikipedia etc.)
 
 <div>
   <img src="assets/image0a_ghbg0.png">

@@ -119,7 +119,7 @@ GitHubやインターネットの海の中から、高度な検索、リポジ�
 
 MyAnimeList、Chess.com、IMDb、Discordなどのアカウントは、聞いてもらえればお教えします。
 
-（ほかにも：Pixiv、Goodreads、VocaDB、TradingView、YouTube、Liked、Wikipediaなど）
+（ほかにも：Pixiv、Goodreads、VocaDB、TradinView、YouTube、Liked、Wikipediaなど）
 
 <div>
   <img src="assets/image0a_ghbg0.png">

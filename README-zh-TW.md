@@ -119,7 +119,7 @@
 
 想知道我的 MyAnimeList、Chess.com、IMDb、Discord 等帳號，歡迎直接問我。
 
-（另外還有：Pixiv、Goodreads、VocaDB、TradingView、YouTube、Liked、Wikipedia 等）
+（另外還有：Pixiv、Goodreads、VocaDB、TradinView、YouTube、Liked、Wikipedia 等）
 
 <div>
   <img src="assets/image0a_ghbg0.png">

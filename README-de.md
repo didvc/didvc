@@ -119,7 +119,7 @@ Zitieren: [https://github.com/didvc](https://github.com/didvc)
 
 Nach meinen Profilen auf MyAnimeList, Chess.com, IMDb, Discord usw. kannst du mich einfach fragen.
 
-(außerdem: Pixiv, Goodreads, VocaDB, TradingView, YouTube, Liked, Wikipedia usw.)
+(außerdem: Pixiv, Goodreads, VocaDB, TradinView, YouTube, Liked, Wikipedia usw.)
 
 <div>
   <img src="assets/image0a_ghbg0.png">
