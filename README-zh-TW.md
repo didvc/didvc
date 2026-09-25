@@ -1,4 +1,4 @@
-[English](README.md) · [日本語](README-ja.md) · [Deutsch](README-de.md) · 繁體中文
+[English](README.md) · [日本語](README-ja.md) · 繁體中文 · [Deutsch](README-de.md) · [Esperanto](README-eo.md) · [Latina](README-la.md)
 
 雖然 AI 在寫程式、學習等方面很好用，但我認為它對繪畫、3D、文字內容、藝術作品、文化與歷史、網路以及個人身分認同的影響方式存在問題。這也是我開始探索零知識證明（ZKP）與密碼學的契機。
 
@@ -68,23 +68,6 @@
 <img src="assets/splitter-2.png" alt="" width="100%">
 
 此處觀點僅代表我個人，不代表我可能所屬的任何組織。
-
-<details>
-<summary>本內容可透過 Opentimestamps.org 進行密碼學驗證。</summary>
-
-<pre></pre>
-
-1. 下載 `https://didvc.pages.dev/canonical.jsonl` 與 `https://didvc.pages.dev/canonical.jsonl.ots`。
-2. 在瀏覽器中開啟 `Opentimestamps.org`，先將 ots 檔案、再將 jsonl 檔案拖放到放置區域。
-
-這是依循自我主權身分（SSI）理念，保護自身身分與創作的一個實例。
-
-（本內容的存在與完整性已透過 OpenTimestamps 進行密碼學時間戳記，可在比特幣區塊鏈上驗證。）
-
-<pre></pre>
-
-</details>
-
 
 <details>
 <summary>需要我的協助嗎？</summary>

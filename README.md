@@ -1,4 +1,4 @@
-English · [日本語](README-ja.md) · [Deutsch](README-de.md) · [繁體中文](README-zh-TW.md)
+English · [日本語](README-ja.md) · [繁體中文](README-zh-TW.md) · [Deutsch](README-de.md) · [Esperanto](README-eo.md) · [Latina](README-la.md)
 
 Although AI is nice for coding, learning, etc., I see issues in the way it influences drawings, 3D, text content, artworks, culture and history, the web, and individual identity. That's how I started exploring ZKP, cryptography.
 
@@ -70,23 +70,6 @@ Super Simple Highlighter, the text highlighter Chrome extension, super enhanced.
 <img src="assets/splitter-2.png" alt="" width="100%">
 
 Views are my own and do not represent any affiliation I may belong to.
-
-<details>
-<summary>The Content is cryptographically verifiable by Opentimestamps.org. </summary>
-
-<pre></pre>
-
-1. Download `https://didvc.pages.dev/canonical.jsonl`, `https://didvc.pages.dev/canonical.jsonl.ots` 
-2. Open `Opentimestamps.org` in your browser, drag and drop the ots file then the jsonl file into the drop section.
-
-This is one example of how protecting your identity, creation through the self-sovereign identity (SSI) philosophy works.
-
-(The existence and integrity of this content is cryptographically timestamped and verifiable on the Bitcoin blockchain via OpenTimestamps.)
-
-<pre></pre>
-
-</details>
-
 
 <details>
 <summary>Do you need my help?</summary>

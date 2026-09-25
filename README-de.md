@@ -1,4 +1,4 @@
-[English](README.md) · [日本語](README-ja.md) · Deutsch · [繁體中文](README-zh-TW.md)
+[English](README.md) · [日本語](README-ja.md) · [繁體中文](README-zh-TW.md) · Deutsch · [Esperanto](README-eo.md) · [Latina](README-la.md)
 
 KI ist zwar praktisch zum Programmieren, Lernen usw., aber ich sehe Probleme darin, wie sie Zeichnungen, 3D, Textinhalte, Kunstwerke, Kultur und Geschichte, das Web und die individuelle Identität beeinflusst. So habe ich angefangen, mich mit ZKP (Zero-Knowledge-Proofs) und Kryptografie zu beschäftigen.
 
@@ -68,23 +68,6 @@ Super Simple Highlighter, die Chrome-Erweiterung zum Markieren von Text – supe
 <img src="assets/splitter-2.png" alt="" width="100%">
 
 Die hier geäußerten Ansichten sind meine eigenen und vertreten keine Organisation, der ich möglicherweise angehöre.
-
-<details>
-<summary>Dieser Inhalt ist über Opentimestamps.org kryptografisch verifizierbar.</summary>
-
-<pre></pre>
-
-1. Lade `https://didvc.pages.dev/canonical.jsonl` und `https://didvc.pages.dev/canonical.jsonl.ots` herunter.
-2. Öffne `Opentimestamps.org` im Browser und ziehe zuerst die ots-Datei, dann die jsonl-Datei in den Ablagebereich.
-
-Dies ist ein Beispiel dafür, wie der Schutz der eigenen Identität und der eigenen Werke nach der Philosophie der selbstbestimmten Identität (Self-Sovereign Identity, SSI) funktioniert.
-
-(Existenz und Integrität dieses Inhalts sind über OpenTimestamps kryptografisch mit einem Zeitstempel versehen und auf der Bitcoin-Blockchain überprüfbar.)
-
-<pre></pre>
-
-</details>
-
 
 <details>
 <summary>Brauchst du meine Hilfe?</summary>

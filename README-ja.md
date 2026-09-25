@@ -1,4 +1,4 @@
-[English](README.md) · 日本語 · [Deutsch](README-de.md) · [繁體中文](README-zh-TW.md)
+[English](README.md) · 日本語 · [繁體中文](README-zh-TW.md) · [Deutsch](README-de.md) · [Esperanto](README-eo.md) · [Latina](README-la.md)
 
 AIはコーディングや学習などには便利ですが、イラスト、3D、テキストコンテンツ、アート作品、文化や歴史、Web、そして個人のアイデンティティへの影響の仕方には問題があると考えています。それがきっかけで、ゼロ知識証明（ZKP）や暗号技術を探求し始めました。
 
@@ -68,23 +68,6 @@ Windowsデスクトップ向けのリプレイバッファソフトウェア。�
 <img src="assets/splitter-2.png" alt="" width="100%">
 
 ここでの見解は個人的なものであり、私が所属する可能性のあるいかなる組織の見解を代表するものでもありません。
-
-<details>
-<summary>このコンテンツはOpentimestamps.orgで暗号的に検証できます。</summary>
-
-<pre></pre>
-
-1. `https://didvc.pages.dev/canonical.jsonl` と `https://didvc.pages.dev/canonical.jsonl.ots` をダウンロードします。
-2. ブラウザで `Opentimestamps.org` を開き、otsファイル、続いてjsonlファイルをドロップ領域にドラッグ＆ドロップします。
-
-これは、自己主権型アイデンティティ（SSI）の考え方によって、自分のアイデンティティや創作物を守る仕組みの一例です。
-
-（このコンテンツの存在と完全性は、OpenTimestampsを通じて暗号的にタイムスタンプが付与されており、Bitcoinブロックチェーン上で検証できます。）
-
-<pre></pre>
-
-</details>
-
 
 <details>
 <summary>お手伝いが必要ですか？</summary>
