@@ -134,7 +134,7 @@ For my MyAnimeList, Chess.com, IMDb, Discord etc., ask me.
 <pre></pre>
 
 <div align="left">
-  <p>The Flea Waltz.</p>
+  <p>The Flea Waltz. feat. KAFU</p>
   <a href="https://www.youtube.com/watch?v=L6QtByukIPs" target="_blank" rel="noopener noreferrer">
     <img width="40%" src="https://img.youtube.com/vi/L6QtByukIPs/hqdefault.jpg" alt="Watch video on YouTube">
   </a>

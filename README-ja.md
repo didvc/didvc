@@ -132,7 +132,7 @@ MyAnimeList、Chess.com、IMDb、Discordなどのアカウントは、聞いて�
 <pre></pre>
 
 <div align="left">
-  <p>ねこふんじゃった（The Flea Waltz）</p>
+  <p>ねこふんじゃった（The Flea Waltz） feat. 可不</p>
   <a href="https://www.youtube.com/watch?v=L6QtByukIPs" target="_blank" rel="noopener noreferrer">
     <img width="40%" src="https://img.youtube.com/vi/L6QtByukIPs/hqdefault.jpg" alt="YouTubeで動画を見る">
   </a>

@@ -132,7 +132,7 @@ Para mis perfiles de MyAnimeList, Chess.com, IMDb, Discord, etc., pregúntame.
 <pre></pre>
 
 <div align="left">
-  <p>El vals de la pulga (The Flea Waltz).</p>
+  <p>El vals de la pulga (The Flea Waltz). feat. KAFU</p>
   <a href="https://www.youtube.com/watch?v=L6QtByukIPs" target="_blank" rel="noopener noreferrer">
     <img width="40%" src="https://img.youtube.com/vi/L6QtByukIPs/hqdefault.jpg" alt="Ver el video en YouTube">
   </a>

@@ -132,7 +132,7 @@ De rationibus meis in MyAnimeList, Chess.com, IMDb, Discord etc. me interroga.
 <pre></pre>
 
 <div align="left">
-  <p>Saltatio Pulicis (The Flea Waltz).</p>
+  <p>Saltatio Pulicis (The Flea Waltz). feat. KAFU</p>
   <a href="https://www.youtube.com/watch?v=L6QtByukIPs" target="_blank" rel="noopener noreferrer">
     <img width="40%" src="https://img.youtube.com/vi/L6QtByukIPs/hqdefault.jpg" alt="Pelliculam in YouTube specta">
   </a>
