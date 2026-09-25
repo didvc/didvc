@@ -105,7 +105,7 @@
 
 <pre></pre>
 
-程式碼 = MIT，文字內容 = CC BY 4.0
+程式碼 = MIT，文字內容與圖片 = CC BY 4.0
 
 引用：[https://github.com/didvc](https://github.com/didvc)
 

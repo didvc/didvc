@@ -105,7 +105,7 @@ Hinweis: Stand September 2026 bin ich Single, das kann sich aber ändern. Frag e
 
 <pre></pre>
 
-Code = MIT, Textinhalte = CC BY 4.0
+Code = MIT, Textinhalte und Bilder = CC BY 4.0
 
 Zitieren: [https://github.com/didvc](https://github.com/didvc)
 

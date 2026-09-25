@@ -105,7 +105,7 @@ Nota: mense Septembri anni 2026 caelebs sum, sed hoc tempore mutari potest. Quan
 
 <pre></pre>
 
-Codex = MIT, textus = CC BY 4.0
+Codex = MIT, textus et imagines = CC BY 4.0
 
 Citatio: [https://github.com/didvc](https://github.com/didvc)
 

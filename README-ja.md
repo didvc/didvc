@@ -105,7 +105,7 @@ GitHubやインターネットの海の中から、高度な検索、リポジ�
 
 <pre></pre>
 
-コード = MIT、テキストコンテンツ = CC BY 4.0
+コード = MIT、テキストコンテンツと画像 = CC BY 4.0
 
 引用: [https://github.com/didvc](https://github.com/didvc)
 
