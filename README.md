@@ -1,4 +1,4 @@
-English · [日本語](README-ja.md) · [繁體中文](README-zh-TW.md) · [Deutsch](README-de.md) · [Esperanto](README-eo.md) · [Latina](README-la.md)
+English · [日本語](README-ja.md) · [繁體中文](README-zh-TW.md) · [Deutsch](README-de.md) · [Latina](README-la.md)
 
 Although AI is nice for coding, learning, etc., I see issues in the way it influences drawings, 3D, text content, artworks, culture and history, the web, and individual identity. That's how I started exploring ZKP, cryptography.
 
