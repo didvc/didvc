@@ -1,4 +1,4 @@
-[English](README.md) · [日本語](README-ja.md) · [繁體中文](README-zh-TW.md) · [Deutsch](README-de.md) · Latina
+[English](README.md) · [日本語](README-ja.md) · [繁體中文](README-zh-TW.md) · [简体中文](README-zh.md) · [Deutsch](README-de.md) · [Español](README-es.md) · Latina
 
 Quamquam intellegentia artificialis (AI) ad programmata scribenda, ad discendum et cetera utilis est, tamen in modo quo picturas, 3D, textus, opera artis, culturam et historiam, interrete identitatemque singulorum afficit, difficultates video. Hinc coepi probationes nullius scientiae (ZKP) et cryptographiam explorare.
 

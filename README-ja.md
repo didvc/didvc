@@ -1,4 +1,4 @@
-[English](README.md) · 日本語 · [繁體中文](README-zh-TW.md) · [Deutsch](README-de.md) · [Latina](README-la.md)
+[English](README.md) · 日本語 · [繁體中文](README-zh-TW.md) · [简体中文](README-zh.md) · [Deutsch](README-de.md) · [Español](README-es.md) · [Latina](README-la.md)
 
 AIはコーディングや学習などには便利ですが、イラスト、3D、テキストコンテンツ、アート作品、文化や歴史、Web、そして個人のアイデンティティへの影響の仕方には問題があると考えています。それがきっかけで、ゼロ知識証明（ZKP）や暗号技術を探求し始めました。
 

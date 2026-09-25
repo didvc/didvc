@@ -1,4 +1,4 @@
-[English](README.md) · [日本語](README-ja.md) · [繁體中文](README-zh-TW.md) · Deutsch · [Latina](README-la.md)
+[English](README.md) · [日本語](README-ja.md) · [繁體中文](README-zh-TW.md) · [简体中文](README-zh.md) · Deutsch · [Español](README-es.md) · [Latina](README-la.md)
 
 KI ist zwar praktisch zum Programmieren, Lernen usw., aber ich sehe Probleme darin, wie sie Zeichnungen, 3D, Textinhalte, Kunstwerke, Kultur und Geschichte, das Web und die individuelle Identität beeinflusst. So habe ich angefangen, mich mit ZKP (Zero-Knowledge-Proofs) und Kryptografie zu beschäftigen.
 
