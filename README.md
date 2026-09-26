@@ -1,6 +1,6 @@
 English · [日本語](README-ja.md) · [繁體中文](README-zh-TW.md) · [简体中文](README-zh.md) · [Deutsch](README-de.md) · [Español](README-es.md) · [Latina](README-la.md)
 
-# Aesthetic Vulpes (didvc)
+# Aesthetic Vulpes [ didvc ]
 
 Although AI is nice for coding, learning, etc., I see issues in the way it influences drawings, 3D, text content, artworks, culture and history, the web, and individual identity. That's how I started exploring ZKP, cryptography.
 
@@ -8,8 +8,6 @@ I explore tools like provenance tracking with OpenTimestamps, selective disclosu
 
 <details>
 <summary><h2>Projects</h2></summary>
-
-<pre></pre>
 
 <!-- projects:start -->
 [my-synthv-list](https://github.com/voca-synth/my-synthv-list)  
@@ -59,8 +57,6 @@ Super Simple Highlighter, the text highlighter Chrome extension, super enhanced.
 <img src="https://raw.githubusercontent.com/didvc/better-super-simple-highlighter/main/resources/screenshots/02-colour-picker.png" alt="better-super-simple-highlighter" width="480">
 <!-- projects:end -->
 
-<pre></pre>
-
 </details>
 
 <img src="assets/splitter-1.png" alt="" width="100%">
@@ -73,40 +69,17 @@ Super Simple Highlighter, the text highlighter Chrome extension, super enhanced.
 
 Views are my own and do not represent any affiliation I may belong to.
 
-<details>
+<details open>
 <summary><h2>Do you need my help?</h2></summary>
-
-<pre></pre>
 
 I usually work on fully online regardless of in flex or as a part-time job, but for certain countries (i.e. Austria, Germany, Denmark, Switzerland) I am willing to have a trip for you/your company. For any inquiries, directly contact me through the @duck email address shown on the left side on this page.
 
-<pre></pre>
-
 </details>
 
-
-<details>
+<details open>
 <summary><h2>Seeking a relationship?</h2></summary>
 
-<pre></pre>
-
 If you found Aesthetic Vulpes through the advanced search or a repo or any recon or agentic ways over the sea of GitHub / Internet, and you're personally interested in Aesthetic Vulpes, I have no objection to accept your offer to have talks. For friendly relations, particularly no criteria. For a possibly devoted relationship, see the abstract criteria in [social/relationship.md](social/relationship.md).
-
-<pre></pre>
-
-</details>
-
-
-<details>
-<summary><h2>Licenses</h2></summary>
-
-<pre></pre>
-
-Code = MIT, Text content and Image = CC BY 4.0
-
-Cite: [https://github.com/didvc](https://github.com/didvc)
-
-<pre></pre>
 
 </details>
 
@@ -119,14 +92,20 @@ For my MyAnimeList, Chess.com, IMDb, Discord etc., ask me.
 (plus: Pixiv, Goodreads, VocaDB, TradinView, YouTube, Liked, Wikipedia etc.)
 
 <div>
-  <img src="assets/image0a_ghbg0.png">
+  <img src="social-preview.png">
 </div>
 
+<details open>
+<summary><h3>Licenses</h3></summary>
+
+Code = MIT, Text content and Image = CC BY 4.0
+
+Cite: [https://github.com/didvc](https://github.com/didvc)
+
+</details>
 
 <details>
-<summary><h2>Music of the month</h2></summary>
-
-<pre></pre>
+<summary><h3>Music of the month</h3></summary>
 
 <div align="left">
   <p>The Flea Waltz. feat. KAFU</p>
@@ -142,8 +121,5 @@ For my MyAnimeList, Chess.com, IMDb, Discord etc., ask me.
   </a>
 </div>
 
-<pre></pre>
-
 </details>
-
 
