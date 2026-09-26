@@ -3,7 +3,7 @@ set -euo pipefail
 W=1600 H=192 BG='#0D1117'
 # Designs are drawn on a 96px-high grid; Y() stretches them 1.5x and centres them in H
 Y() { echo $(( $1 * 3 / 2 + 24 )); }
-OUT_DIR="$(dirname "$0")/assets"
+OUT_DIR="$(dirname "$0")/../assets"
 TMP=$(mktemp -d)
 trap 'rm -rf "$TMP"' EXIT
 c() { echo "rgba(139,148,158,$1)"; }   # #8B949E at opacity $1

@@ -6,7 +6,7 @@ set -euo pipefail
 # The text is composited with Difference so it stays legible over both the dark sky
 # and the white moon.
 
-DIR="$(dirname "$0")"
+DIR="$(dirname "$0")/.."
 SRC="$DIR/assets/image0a_ghbg0.png"
 OUT="$DIR/social-preview.png"
 FONT=/usr/share/fonts/truetype/ubuntu/UbuntuMono-R.ttf

@@ -35,7 +35,7 @@ const REPOS = [
   },
 ];
 
-const DIR = dirname(fileURLToPath(import.meta.url));
+const DIR = join(dirname(fileURLToPath(import.meta.url)), "..");
 const OUT = join(DIR, "part.html");
 const README = join(DIR, "README.md");
 const START = "<!-- projects:start -->";
