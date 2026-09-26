@@ -37,7 +37,7 @@ InfluxDB Line Protocol direkt im Terminal als Diagramm darstellen. Mit erweitert
 Totmannschalter, Anwesenheits-Beacon, Leerlauf-Benachrichtigung. Basierend auf Maus-(In-)Aktivität.  
 <sub>automation · dead-mans-switch · deadmanswitch · healthcheck · heartbeat · inactivity-monitor · mouse-activity · privacy · privacy-tools · tui-go</sub>
 
-<img src="https://raw.githubusercontent.com/didvc/dead-mans-ping/main/assets/demo-server.png" alt="dead-mans-ping" width="480">
+<img src="https://raw.githubusercontent.com/didvc/dead-mans-ping/main/assets/social-preview.png" alt="dead-mans-ping" width="480">
 
 <hr>
 

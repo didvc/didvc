@@ -37,7 +37,7 @@ Grafica el line protocol de InfluxDB en tu terminal. stats++
 Interruptor de hombre muerto, baliza de presencia, notificador de inactividad. Basado en la (in)actividad del ratón.  
 <sub>automation · dead-mans-switch · deadmanswitch · healthcheck · heartbeat · inactivity-monitor · mouse-activity · privacy · privacy-tools · tui-go</sub>
 
-<img src="https://raw.githubusercontent.com/didvc/dead-mans-ping/main/assets/demo-server.png" alt="dead-mans-ping" width="480">
+<img src="https://raw.githubusercontent.com/didvc/dead-mans-ping/main/assets/social-preview.png" alt="dead-mans-ping" width="480">
 
 <hr>
 

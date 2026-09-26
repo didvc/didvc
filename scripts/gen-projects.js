@@ -23,7 +23,7 @@ const REPOS = [
   },
   {
     repo: "didvc/dead-mans-ping",
-    image: "https://raw.githubusercontent.com/didvc/dead-mans-ping/main/assets/demo-server.png",
+    image: "https://raw.githubusercontent.com/didvc/dead-mans-ping/main/assets/social-preview.png",
   },
   {
     repo: "didvc/simple-desktop-replay",

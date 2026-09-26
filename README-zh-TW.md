@@ -37,7 +37,7 @@
 死人開關（dead man's switch）、在場信標、閒置通知。依據滑鼠活動／無活動運作。  
 <sub>automation · dead-mans-switch · deadmanswitch · healthcheck · heartbeat · inactivity-monitor · mouse-activity · privacy · privacy-tools · tui-go</sub>
 
-<img src="https://raw.githubusercontent.com/didvc/dead-mans-ping/main/assets/demo-server.png" alt="dead-mans-ping" width="480">
+<img src="https://raw.githubusercontent.com/didvc/dead-mans-ping/main/assets/social-preview.png" alt="dead-mans-ping" width="480">
 
 <hr>
 
