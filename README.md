@@ -1,11 +1,13 @@
 English · [日本語](README-ja.md) · [繁體中文](README-zh-TW.md) · [简体中文](README-zh.md) · [Deutsch](README-de.md) · [Español](README-es.md) · [Latina](README-la.md)
 
+# Aesthetic Vulpes (didvc)
+
 Although AI is nice for coding, learning, etc., I see issues in the way it influences drawings, 3D, text content, artworks, culture and history, the web, and individual identity. That's how I started exploring ZKP, cryptography.
 
 I explore tools like provenance tracking with OpenTimestamps, selective disclosure in agentic systems, verifiable credentials, and C2PA standards to better protect digital arts and maintain control over content origins.
 
 <details>
-<summary>Projects</summary>
+<summary><h2>Projects</h2></summary>
 
 <pre></pre>
 
@@ -72,7 +74,7 @@ Super Simple Highlighter, the text highlighter Chrome extension, super enhanced.
 Views are my own and do not represent any affiliation I may belong to.
 
 <details>
-<summary>Do you need my help?</summary>
+<summary><h2>Do you need my help?</h2></summary>
 
 <pre></pre>
 
@@ -84,18 +86,11 @@ I usually work on fully online regardless of in flex or as a part-time job, but 
 
 
 <details>
-<summary>Seeking a relationship?</summary>
+<summary><h2>Seeking a relationship?</h2></summary>
 
 <pre></pre>
 
-If you found Aesthetic Vulpes through the advanced search or a repo or any recon or agentic ways over the sea of GitHub / Internet, and you're personally interested in Aesthetic Vulpes, I have no objection to accept your offer to have talks. For friendly relations, particularly no criteria. For a possibly devoted relationship, keep the abstract criteria in your mind shortly.
-
-- You're (I'm) a geeky person (not about fashion/appearance; about your mind/lifestyle.)
-- You prefer (I prefer) to hang out / spend indoor rather than outdoor
-- You're a genetic AND biological female AND a hetero or a bi (I'm a hetero. I don't mind about your orientations.)
-- You're (I'm) not a type of individual who lies/hides when asked about serious matters. (for example, health status, money problems, etc.)
-
-note: while I'm single as of Sept 2026, it may change over time. Please ask the availability whenever you're ready.
+If you found Aesthetic Vulpes through the advanced search or a repo or any recon or agentic ways over the sea of GitHub / Internet, and you're personally interested in Aesthetic Vulpes, I have no objection to accept your offer to have talks. For friendly relations, particularly no criteria. For a possibly devoted relationship, see the abstract criteria in [social/relationship.md](social/relationship.md).
 
 <pre></pre>
 
@@ -103,7 +98,7 @@ note: while I'm single as of Sept 2026, it may change over time. Please ask the 
 
 
 <details>
-<summary>Licenses</summary>
+<summary><h2>Licenses</h2></summary>
 
 <pre></pre>
 
@@ -117,7 +112,7 @@ Cite: [https://github.com/didvc](https://github.com/didvc)
 
 <img src="assets/splitter-3.png" alt="" width="100%">
 
-(Misc.)
+## Misc.
 
 For my MyAnimeList, Chess.com, IMDb, Discord etc., ask me. 
 
@@ -129,7 +124,7 @@ For my MyAnimeList, Chess.com, IMDb, Discord etc., ask me.
 
 
 <details>
-<summary>Music of the month</summary>
+<summary><h2>Music of the month</h2></summary>
 
 <pre></pre>
 
