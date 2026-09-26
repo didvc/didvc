@@ -1,13 +1,13 @@
 [English](README.md) · 日本語 · [繁體中文](README-zh-TW.md) · [简体中文](README-zh.md) · [Deutsch](README-de.md) · [Español](README-es.md) · [Latina](README-la.md)
 
+# Aesthetic Vulpes [ didvc ]
+
 AIはコーディングや学習などには便利ですが、イラスト、3D、テキストコンテンツ、アート作品、文化や歴史、Web、そして個人のアイデンティティへの影響の仕方には問題があると考えています。それがきっかけで、ゼロ知識証明（ZKP）や暗号技術を探求し始めました。
 
 デジタルアートをよりよく守り、コンテンツの出自を自分の手で管理し続けるために、OpenTimestampsによる来歴追跡、エージェント型システムにおける選択的開示、検証可能なクレデンシャル（VC）、C2PA規格といったツールを探求しています。
 
 <details>
-<summary>プロジェクト</summary>
-
-<pre></pre>
+<summary><h2>プロジェクト</h2></summary>
 
 [my-synthv-list](https://github.com/voca-synth/my-synthv-list)  
 YouTubeから、ボカロやSynthesizer V、そのほかどんな音楽でも自分だけのプレイリストを作成  
@@ -55,8 +55,6 @@ Windowsデスクトップ向けのリプレイバッファソフトウェア。�
 
 <img src="https://raw.githubusercontent.com/didvc/better-super-simple-highlighter/main/resources/screenshots/02-colour-picker.png" alt="better-super-simple-highlighter" width="480">
 
-<pre></pre>
-
 </details>
 
 <img src="assets/splitter-1.png" alt="" width="100%">
@@ -69,67 +67,43 @@ Windowsデスクトップ向けのリプレイバッファソフトウェア。�
 
 ここでの見解は個人的なものであり、私が所属する可能性のあるいかなる組織の見解を代表するものでもありません。
 
-<details>
-<summary>お手伝いが必要ですか？</summary>
-
-<pre></pre>
+<details open>
+<summary><h2>お手伝いが必要ですか？</h2></summary>
 
 フレックスでもパートタイムでも、基本的には完全オンラインで仕事をしていますが、一部の国（オーストリア、ドイツ、デンマーク、スイスなど）であれば、あなたやあなたの会社のために現地へ出向くこともできます。お問い合わせは、このページの左側に表示されている @duck のメールアドレスまで直接ご連絡ください。
 
-<pre></pre>
-
 </details>
 
+<details open>
+<summary><h2>お付き合いをお探しですか？</h2></summary>
 
-<details>
-<summary>お付き合いをお探しですか？</summary>
-
-<pre></pre>
-
-GitHubやインターネットの海の中から、高度な検索、リポジトリ、何らかの調査やエージェント的な手段を通じてAesthetic Vulpesを見つけ、個人的に興味を持ってくださったなら、お話のお誘いは喜んでお受けします。友人としての関係であれば、特に条件はありません。真剣なお付き合いの可能性を考えている場合は、以下の大まかな条件を少し頭に置いておいてください。
-
-- あなたが（私も）ギークであること（ファッションや外見ではなく、考え方やライフスタイルの話です）
-- あなたが（私も）外出するより屋内で過ごすほうが好きなこと
-- あなたが遺伝的かつ生物学的に女性であり、かつヘテロまたはバイであること（私はヘテロです。あなたの指向は気にしません。）
-- あなたが（私も）深刻な事柄（健康状態やお金の問題など）について聞かれたときに、嘘をついたり隠したりするタイプではないこと
-
-注：2026年9月時点では独身ですが、今後変わる可能性があります。準備ができたら、いつでも今の状況を聞いてください。
-
-<pre></pre>
-
-</details>
-
-
-<details>
-<summary>ライセンス</summary>
-
-<pre></pre>
-
-コード = MIT、テキストコンテンツと画像 = CC BY 4.0
-
-引用: [https://github.com/didvc](https://github.com/didvc)
-
-<pre></pre>
+GitHubやインターネットの海の中から、高度な検索、リポジトリ、何らかの調査やエージェント的な手段を通じてAesthetic Vulpesを見つけ、個人的に興味を持ってくださったなら、お話のお誘いは喜んでお受けします。友人としての関係であれば、特に条件はありません。真剣なお付き合いの可能性を考えている場合は、[social/relationship.md](social/relationship.md) にある大まかな条件をご覧ください（英語）。
 
 </details>
 
 <img src="assets/splitter-3.png" alt="" width="100%">
 
-（その他）
+## その他
 
 MyAnimeList、Chess.com、IMDb、Discordなどのアカウントは、聞いてもらえればお教えします。
 
 （ほかにも：Pixiv、Goodreads、VocaDB、TradinView、YouTube、Liked、Wikipediaなど）
 
 <div>
-  <img src="assets/image0a_ghbg0.png">
+  <img src="social-preview.png">
 </div>
 
+<details open>
+<summary><h3>ライセンス</h3></summary>
+
+コード = MIT、テキストコンテンツと画像 = CC BY 4.0
+
+引用: [https://github.com/didvc](https://github.com/didvc)
+
+</details>
 
 <details>
-<summary>今月の音楽</summary>
-
-<pre></pre>
+<summary><h3>今月の音楽</h3></summary>
 
 <div align="left">
   <p>ねこふんじゃった（The Flea Waltz） feat. 可不</p>
@@ -144,7 +118,5 @@ MyAnimeList、Chess.com、IMDb、Discordなどのアカウントは、聞いて�
     <img width="40%" src="https://img.youtube.com/vi/JvCpCg0sGkg/hqdefault.jpg" alt="YouTubeで動画を見る">
   </a>
 </div>
-
-<pre></pre>
 
 </details>

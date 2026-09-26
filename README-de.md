@@ -1,13 +1,13 @@
 [English](README.md) · [日本語](README-ja.md) · [繁體中文](README-zh-TW.md) · [简体中文](README-zh.md) · Deutsch · [Español](README-es.md) · [Latina](README-la.md)
 
+# Aesthetic Vulpes [ didvc ]
+
 KI ist zwar praktisch zum Programmieren, Lernen usw., aber ich sehe Probleme darin, wie sie Zeichnungen, 3D, Textinhalte, Kunstwerke, Kultur und Geschichte, das Web und die individuelle Identität beeinflusst. So habe ich angefangen, mich mit ZKP (Zero-Knowledge-Proofs) und Kryptografie zu beschäftigen.
 
 Ich beschäftige mich mit Werkzeugen wie Provenienz-Tracking mit OpenTimestamps, selektiver Offenlegung in agentischen Systemen, Verifiable Credentials und C2PA-Standards, um digitale Kunst besser zu schützen und die Kontrolle über die Herkunft von Inhalten zu behalten.
 
 <details>
-<summary>Projekte</summary>
-
-<pre></pre>
+<summary><h2>Projekte</h2></summary>
 
 [my-synthv-list](https://github.com/voca-synth/my-synthv-list)  
 Erstelle deine eigene Vocaloid-, Synthesizer-V- oder beliebige Musik-Playlist aus YouTube  
@@ -55,8 +55,6 @@ Super Simple Highlighter, die Chrome-Erweiterung zum Markieren von Text – supe
 
 <img src="https://raw.githubusercontent.com/didvc/better-super-simple-highlighter/main/resources/screenshots/02-colour-picker.png" alt="better-super-simple-highlighter" width="480">
 
-<pre></pre>
-
 </details>
 
 <img src="assets/splitter-1.png" alt="" width="100%">
@@ -69,67 +67,43 @@ Super Simple Highlighter, die Chrome-Erweiterung zum Markieren von Text – supe
 
 Die hier geäußerten Ansichten sind meine eigenen und vertreten keine Organisation, der ich möglicherweise angehöre.
 
-<details>
-<summary>Brauchst du meine Hilfe?</summary>
-
-<pre></pre>
+<details open>
+<summary><h2>Brauchst du meine Hilfe?</h2></summary>
 
 Ich arbeite in der Regel vollständig online, egal ob flexibel oder in Teilzeit. Für bestimmte Länder (z. B. Österreich, Deutschland, Dänemark, die Schweiz) bin ich aber gerne bereit, für dich bzw. dein Unternehmen anzureisen. Für Anfragen kontaktiere mich direkt über die @duck-E-Mail-Adresse, die links auf dieser Seite angezeigt wird.
 
-<pre></pre>
-
 </details>
 
+<details open>
+<summary><h2>Auf der Suche nach einer Beziehung?</h2></summary>
 
-<details>
-<summary>Auf der Suche nach einer Beziehung?</summary>
-
-<pre></pre>
-
-Falls du Aesthetic Vulpes über die erweiterte Suche, ein Repo oder durch irgendeine Recherche oder agentische Wege im weiten Meer von GitHub / dem Internet gefunden hast und dich persönlich für Aesthetic Vulpes interessierst, nehme ich dein Angebot für ein Gespräch gerne an. Für Freundschaften gibt es keine besonderen Kriterien. Für eine mögliche feste Beziehung behalte bitte kurz die folgenden groben Kriterien im Hinterkopf.
-
-- Du bist (ich bin) ein Geek (nicht in Sachen Mode/Aussehen, sondern was Denkweise/Lebensstil angeht).
-- Du verbringst (ich verbringe) die Zeit lieber drinnen als draußen.
-- Du bist genetisch UND biologisch weiblich UND hetero oder bi (ich bin hetero; deine Orientierung spielt für mich keine Rolle).
-- Du bist (ich bin) kein Mensch, der bei ernsten Themen lügt oder etwas verheimlicht (z. B. Gesundheitszustand, Geldprobleme usw.).
-
-Hinweis: Stand September 2026 bin ich Single, das kann sich aber ändern. Frag einfach nach, wenn du so weit bist.
-
-<pre></pre>
-
-</details>
-
-
-<details>
-<summary>Lizenzen</summary>
-
-<pre></pre>
-
-Code = MIT, Textinhalte und Bilder = CC BY 4.0
-
-Zitieren: [https://github.com/didvc](https://github.com/didvc)
-
-<pre></pre>
+Falls du Aesthetic Vulpes über die erweiterte Suche, ein Repo oder durch irgendeine Recherche oder agentische Wege im weiten Meer von GitHub / dem Internet gefunden hast und dich persönlich für Aesthetic Vulpes interessierst, nehme ich dein Angebot für ein Gespräch gerne an. Für Freundschaften gibt es keine besonderen Kriterien. Für eine mögliche feste Beziehung stehen die groben Kriterien in [social/relationship.md](social/relationship.md) (auf Englisch).
 
 </details>
 
 <img src="assets/splitter-3.png" alt="" width="100%">
 
-(Sonstiges)
+## Sonstiges
 
 Nach meinen Profilen auf MyAnimeList, Chess.com, IMDb, Discord usw. kannst du mich einfach fragen.
 
 (außerdem: Pixiv, Goodreads, VocaDB, TradinView, YouTube, Liked, Wikipedia usw.)
 
 <div>
-  <img src="assets/image0a_ghbg0.png">
+  <img src="social-preview.png">
 </div>
 
+<details open>
+<summary><h3>Lizenzen</h3></summary>
+
+Code = MIT, Textinhalte und Bilder = CC BY 4.0
+
+Zitieren: [https://github.com/didvc](https://github.com/didvc)
+
+</details>
 
 <details>
-<summary>Musik des Monats</summary>
-
-<pre></pre>
+<summary><h3>Musik des Monats</h3></summary>
 
 <div align="left">
   <p>Der Flohwalzer. feat. KAFU</p>
@@ -144,7 +118,5 @@ Nach meinen Profilen auf MyAnimeList, Chess.com, IMDb, Discord usw. kannst du mi
     <img width="40%" src="https://img.youtube.com/vi/JvCpCg0sGkg/hqdefault.jpg" alt="Video auf YouTube ansehen">
   </a>
 </div>
-
-<pre></pre>
 
 </details>

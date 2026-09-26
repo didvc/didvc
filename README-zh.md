@@ -1,13 +1,13 @@
 [English](README.md) · [日本語](README-ja.md) · [繁體中文](README-zh-TW.md) · 简体中文 · [Deutsch](README-de.md) · [Español](README-es.md) · [Latina](README-la.md)
 
+# Aesthetic Vulpes [ didvc ]
+
 虽然 AI 在编程、学习等方面很好用，但我认为它对绘画、3D、文字内容、艺术作品、文化与历史、互联网以及个人身份认同的影响方式存在问题。这也是我开始探索零知识证明（ZKP）与密码学的契机。
 
 为了更好地保护数字艺术、保持对内容来源的掌控，我正在探索各种工具，例如使用 OpenTimestamps 进行来源追踪、智能体（agentic）系统中的选择性披露、可验证凭证（Verifiable Credentials），以及 C2PA 标准。
 
 <details>
-<summary>项目</summary>
-
-<pre></pre>
+<summary><h2>项目</h2></summary>
 
 [my-synthv-list](https://github.com/voca-synth/my-synthv-list)  
 从 YouTube 创建属于你自己的 Vocaloid、Synthesizer V 或任何音乐播放列表  
@@ -55,8 +55,6 @@
 
 <img src="https://raw.githubusercontent.com/didvc/better-super-simple-highlighter/main/resources/screenshots/02-colour-picker.png" alt="better-super-simple-highlighter" width="480">
 
-<pre></pre>
-
 </details>
 
 <img src="assets/splitter-1.png" alt="" width="100%">
@@ -69,67 +67,43 @@
 
 此处观点仅代表我个人，不代表我可能所属的任何组织。
 
-<details>
-<summary>需要我的帮助吗？</summary>
-
-<pre></pre>
+<details open>
+<summary><h2>需要我的帮助吗？</h2></summary>
 
 无论是弹性工作还是兼职，我通常都是完全远程在线工作；不过如果是特定国家（例如奥地利、德国、丹麦、瑞士），我也愿意为你或你的公司亲自前往。如有任何咨询，请直接通过本页左侧显示的 @duck 电子邮件地址与我联系。
 
-<pre></pre>
-
 </details>
 
+<details open>
+<summary><h2>在寻找交往对象吗？</h2></summary>
 
-<details>
-<summary>在寻找交往对象吗？</summary>
-
-<pre></pre>
-
-如果你是通过高级搜索、某个仓库，或在 GitHub／互联网的茫茫大海中借助任何调查或智能体（agentic）方式找到 Aesthetic Vulpes，并且对 Aesthetic Vulpes 本人感兴趣，我很乐意接受你的邀约聊聊。如果是朋友关系，没有特别的条件。如果是可能发展为认真交往的关系，请稍微记住以下几项大致的条件。
-
-- 你是（我也是）geek 型的人（不是指时尚或外表，而是指思维与生活方式）
-- 你（我也）比起外出，更喜欢待在室内
-- 你在基因上“且”生理上为女性，“且”为 hetero 或 bi（我是 hetero，不介意你的倾向）
-- 你（我也）不是那种被问到重要事情（例如健康状况、金钱问题等）时会说谎或隐瞒的人
-
-注：截至 2026 年 9 月我是单身，但情况可能会改变。等你准备好了，随时可以来问我目前的状况。
-
-<pre></pre>
-
-</details>
-
-
-<details>
-<summary>许可</summary>
-
-<pre></pre>
-
-代码 = MIT，文字内容与图片 = CC BY 4.0
-
-引用：[https://github.com/didvc](https://github.com/didvc)
-
-<pre></pre>
+如果你是通过高级搜索、某个仓库，或在 GitHub／互联网的茫茫大海中借助任何调查或智能体（agentic）方式找到 Aesthetic Vulpes，并且对 Aesthetic Vulpes 本人感兴趣，我很乐意接受你的邀约聊聊。如果是朋友关系，没有特别的条件。如果是可能发展为认真交往的关系，请参阅 [social/relationship.md](social/relationship.md) 中的大致条件（英文）。
 
 </details>
 
 <img src="assets/splitter-3.png" alt="" width="100%">
 
-（其他）
+## 其他
 
 想知道我的 MyAnimeList、Chess.com、IMDb、Discord 等账号，欢迎直接问我。
 
 （另外还有：Pixiv、Goodreads、VocaDB、TradinView、YouTube、Liked、Wikipedia 等）
 
 <div>
-  <img src="assets/image0a_ghbg0.png">
+  <img src="social-preview.png">
 </div>
 
+<details open>
+<summary><h3>许可</h3></summary>
+
+代码 = MIT，文字内容与图片 = CC BY 4.0
+
+引用：[https://github.com/didvc](https://github.com/didvc)
+
+</details>
 
 <details>
-<summary>本月音乐</summary>
-
-<pre></pre>
+<summary><h3>本月音乐</h3></summary>
 
 <div align="left">
   <p>跳蚤圆舞曲（The Flea Waltz） feat. 可不</p>
@@ -144,7 +118,5 @@
     <img width="40%" src="https://img.youtube.com/vi/JvCpCg0sGkg/hqdefault.jpg" alt="在 YouTube 上观看视频">
   </a>
 </div>
-
-<pre></pre>
 
 </details>

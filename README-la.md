@@ -1,13 +1,13 @@
 [English](README.md) · [日本語](README-ja.md) · [繁體中文](README-zh-TW.md) · [简体中文](README-zh.md) · [Deutsch](README-de.md) · [Español](README-es.md) · Latina
 
+# Aesthetic Vulpes [ didvc ]
+
 Quamquam intellegentia artificialis (AI) ad programmata scribenda, ad discendum et cetera utilis est, tamen in modo quo picturas, 3D, textus, opera artis, culturam et historiam, interrete identitatemque singulorum afficit, difficultates video. Hinc coepi probationes nullius scientiae (ZKP) et cryptographiam explorare.
 
 Instrumenta exploro, ut originis vestigationem per OpenTimestamps, patefactionem selectivam in systematibus agentibus, testimonia verificabilia (verifiable credentials) et normas C2PA, quo melius artes digitales protegam et originem contentorum in mea potestate retineam.
 
 <details>
-<summary>Incepta</summary>
-
-<pre></pre>
+<summary><h2>Incepta</h2></summary>
 
 [my-synthv-list](https://github.com/voca-synth/my-synthv-list)  
 Indicem musicum (playlist) tuum ipsius ex YouTube crea: Vocaloid, Synthesizer V vel cuiusvis musicae  
@@ -55,8 +55,6 @@ Super Simple Highlighter, extensio Chrome ad textum illuminandum, valde aucta.
 
 <img src="https://raw.githubusercontent.com/didvc/better-super-simple-highlighter/main/resources/screenshots/02-colour-picker.png" alt="better-super-simple-highlighter" width="480">
 
-<pre></pre>
-
 </details>
 
 <img src="assets/splitter-1.png" alt="" width="100%">
@@ -69,67 +67,43 @@ Super Simple Highlighter, extensio Chrome ad textum illuminandum, valde aucta.
 
 Sententiae hic expressae meae sunt neque ullius societatis, ad quam fortasse pertineo, sententias repraesentant.
 
-<details>
-<summary>Auxiliumne meum desideras?</summary>
-
-<pre></pre>
+<details open>
+<summary><h2>Auxiliumne meum desideras?</h2></summary>
 
 Plerumque omnino per interrete laboro, sive flexibiliter sive ex parte temporis; in quasdam tamen terras (e.g. Austriam, Germaniam, Daniam, Helvetiam) tui tuaeve societatis causa libenter iter faciam. De quavis re mihi directe scribe per inscriptionem electronicam @duck, quae ad sinistram huius paginae ostenditur.
 
-<pre></pre>
-
 </details>
 
+<details open>
+<summary><h2>Necessitudinemne quaeris?</h2></summary>
 
-<details>
-<summary>Necessitudinemne quaeris?</summary>
-
-<pre></pre>
-
-Si Aesthetic Vulpes per quaestionem provectam, per repositorium vel per quamvis explorationem aut viam agentem in mari GitHub / interretis invenisti, et Aesthetic Vulpes tibi ipsi cordi est, oblationem tuam colloquendi libenter accipio. Ad amicitiam nulla praecipua condicio est. Ad necessitudinem fortasse devotam, has condiciones generales breviter in animo tene.
-
-- Tu es (ego sum) homo "geek" (non quoad vestitum/speciem, sed quoad mentem/vitae rationem).
-- Tu mavis (ego malo) domi quam foris tempus terere.
-- Tu es genetice ET biologice femina ET hetero vel bi (ego sum hetero; inclinatio tua mihi non curae est).
-- Tu non es (ego non sum) homo qui, de rebus gravibus interrogatus, mentiatur aut celet (e.g. de valetudine, de difficultatibus pecuniariis, etc.).
-
-Nota: mense Septembri anni 2026 caelebs sum, sed hoc tempore mutari potest. Quandocumque volueris, quaere num adhuc caelebs sim.
-
-<pre></pre>
-
-</details>
-
-
-<details>
-<summary>Licentiae</summary>
-
-<pre></pre>
-
-Codex = MIT, textus et imagines = CC BY 4.0
-
-Citatio: [https://github.com/didvc](https://github.com/didvc)
-
-<pre></pre>
+Si Aesthetic Vulpes per quaestionem provectam, per repositorium vel per quamvis explorationem aut viam agentem in mari GitHub / interretis invenisti, et Aesthetic Vulpes tibi ipsi cordi est, oblationem tuam colloquendi libenter accipio. Ad amicitiam nulla praecipua condicio est. Ad necessitudinem fortasse devotam, condiciones generales in [social/relationship.md](social/relationship.md) (Anglice) lege.
 
 </details>
 
 <img src="assets/splitter-3.png" alt="" width="100%">
 
-(Varia)
+## Varia
 
 De rationibus meis in MyAnimeList, Chess.com, IMDb, Discord etc. me interroga.
 
 (praeterea: Pixiv, Goodreads, VocaDB, TradinView, YouTube, Liked, Wikipedia etc.)
 
 <div>
-  <img src="assets/image0a_ghbg0.png">
+  <img src="social-preview.png">
 </div>
 
+<details open>
+<summary><h3>Licentiae</h3></summary>
+
+Codex = MIT, textus et imagines = CC BY 4.0
+
+Citatio: [https://github.com/didvc](https://github.com/didvc)
+
+</details>
 
 <details>
-<summary>Musica mensis</summary>
-
-<pre></pre>
+<summary><h3>Musica mensis</h3></summary>
 
 <div align="left">
   <p>Saltatio Pulicis (The Flea Waltz). feat. KAFU</p>
@@ -145,8 +119,5 @@ De rationibus meis in MyAnimeList, Chess.com, IMDb, Discord etc. me interroga.
   </a>
 </div>
 
-<pre></pre>
-
 </details>
-
 
