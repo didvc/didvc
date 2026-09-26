@@ -68,14 +68,14 @@
 此處觀點僅代表我個人，不代表我可能所屬的任何組織。
 
 <details open>
-<summary><h2>需要我的協助嗎？</h2></summary>
+<summary><h2>需要協助嗎？</h2></summary>
 
 無論是彈性工作還是兼職，我通常都是完全線上工作；不過若是特定國家（例如奧地利、德國、丹麥、瑞士），我也願意為你或你的公司親自前往。如有任何詢問，請直接透過本頁左側顯示的 @duck 電子郵件地址與我聯絡。
 
 </details>
 
 <details open>
-<summary><h2>在尋找交往對象嗎？</h2></summary>
+<summary><h2>對 Vulpes 感興趣嗎？</h2></summary>
 
 如果你是透過進階搜尋、某個儲存庫，或在 GitHub／網路的茫茫大海中藉由任何調查或代理式（agentic）方式找到 Aesthetic Vulpes，並且對 Aesthetic Vulpes 本人感興趣，我很樂意接受你的邀約聊聊。若是朋友關係，沒有特別的條件。若是可能發展為認真交往的關係，請參閱 [social/relationship.md](social/relationship.md) 中的大致條件（英文）。
 

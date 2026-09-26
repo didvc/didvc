@@ -68,14 +68,14 @@ Super Simple Highlighter, die Chrome-Erweiterung zum Markieren von Text – supe
 Die hier geäußerten Ansichten sind meine eigenen und vertreten keine Organisation, der ich möglicherweise angehöre.
 
 <details open>
-<summary><h2>Brauchst du meine Hilfe?</h2></summary>
+<summary><h2>Brauchst du Hilfe?</h2></summary>
 
 Ich arbeite in der Regel vollständig online, egal ob flexibel oder in Teilzeit. Für bestimmte Länder (z. B. Österreich, Deutschland, Dänemark, die Schweiz) bin ich aber gerne bereit, für dich bzw. dein Unternehmen anzureisen. Für Anfragen kontaktiere mich direkt über die @duck-E-Mail-Adresse, die links auf dieser Seite angezeigt wird.
 
 </details>
 
 <details open>
-<summary><h2>Auf der Suche nach einer Beziehung?</h2></summary>
+<summary><h2>Interesse an Vulpes?</h2></summary>
 
 Falls du Aesthetic Vulpes über die erweiterte Suche, ein Repo oder durch irgendeine Recherche oder agentische Wege im weiten Meer von GitHub / dem Internet gefunden hast und dich persönlich für Aesthetic Vulpes interessierst, nehme ich dein Angebot für ein Gespräch gerne an. Für Freundschaften gibt es keine besonderen Kriterien. Für eine mögliche feste Beziehung stehen die groben Kriterien in [social/relationship.md](social/relationship.md) (auf Englisch).
 

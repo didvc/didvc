@@ -68,14 +68,14 @@ Super Simple Highlighter, extensio Chrome ad textum illuminandum, valde aucta.
 Sententiae hic expressae meae sunt neque ullius societatis, ad quam fortasse pertineo, sententias repraesentant.
 
 <details open>
-<summary><h2>Auxiliumne meum desideras?</h2></summary>
+<summary><h2>Auxiliumne desideras?</h2></summary>
 
 Plerumque omnino per interrete laboro, sive flexibiliter sive ex parte temporis; in quasdam tamen terras (e.g. Austriam, Germaniam, Daniam, Helvetiam) tui tuaeve societatis causa libenter iter faciam. De quavis re mihi directe scribe per inscriptionem electronicam @duck, quae ad sinistram huius paginae ostenditur.
 
 </details>
 
 <details open>
-<summary><h2>Necessitudinemne quaeris?</h2></summary>
+<summary><h2>Vulpesne tibi cordi est?</h2></summary>
 
 Si Aesthetic Vulpes per quaestionem provectam, per repositorium vel per quamvis explorationem aut viam agentem in mari GitHub / interretis invenisti, et Aesthetic Vulpes tibi ipsi cordi est, oblationem tuam colloquendi libenter accipio. Ad amicitiam nulla praecipua condicio est. Ad necessitudinem fortasse devotam, condiciones generales in [social/relationship.md](social/relationship.md) (Anglice) lege.
 

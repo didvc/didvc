@@ -70,14 +70,14 @@ Super Simple Highlighter, the text highlighter Chrome extension, super enhanced.
 Views are my own and do not represent any affiliation I may belong to.
 
 <details open>
-<summary><h2>Do you need my help?</h2></summary>
+<summary><h2>Need help?</h2></summary>
 
 I usually work on fully online regardless of in flex or as a part-time job, but for certain countries (i.e. Austria, Germany, Denmark, Switzerland) I am willing to have a trip for you/your company. For any inquiries, directly contact me through the @duck email address shown on the left side on this page.
 
 </details>
 
 <details open>
-<summary><h2>Seeking a relationship?</h2></summary>
+<summary><h2>Interested in Vulpes?</h2></summary>
 
 If you found Aesthetic Vulpes through the advanced search or a repo or any recon or agentic ways over the sea of GitHub / Internet, and you're personally interested in Aesthetic Vulpes, I have no objection to accept your offer to have talks. For friendly relations, particularly no criteria. For a possibly devoted relationship, see the abstract criteria in [social/relationship.md](social/relationship.md).
 
