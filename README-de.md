@@ -6,8 +6,7 @@ KI ist zwar praktisch zum Programmieren, Lernen usw., aber ich sehe Probleme dar
 
 Ich beschäftige mich mit Werkzeugen wie Provenienz-Tracking mit OpenTimestamps, selektiver Offenlegung in agentischen Systemen, Verifiable Credentials und C2PA-Standards, um digitale Kunst besser zu schützen und die Kontrolle über die Herkunft von Inhalten zu behalten.
 
-<details>
-<summary><h2>Projekte</h2></summary>
+## Projekte
 
 [my-synthv-list](https://github.com/voca-synth/my-synthv-list)  
 Erstelle deine eigene Vocaloid-, Synthesizer-V- oder beliebige Musik-Playlist aus YouTube  
@@ -15,7 +14,8 @@ Erstelle deine eigene Vocaloid-, Synthesizer-V- oder beliebige Musik-Playlist au
 
 <img src="https://raw.githubusercontent.com/voca-synth/my-synthv-list/main/docs/screenshots/hero.png" alt="my-synthv-list" width="480">
 
-<hr>
+<details>
+<summary><h3>Mehr</h3></summary>
 
 [manga-vastai](https://github.com/anime-research/manga-vastai)  
 Nachbau einer Orchestrierung zur Produktion von Lern-Yonkoma (Vier-Panel-Manga) mit Stable Diffusion auf Vast.ai  
@@ -54,6 +54,10 @@ Super Simple Highlighter, die Chrome-Erweiterung zum Markieren von Text – supe
 <sub>annotation · chrome-extension · highlighter · highlighting · note-taking · notetaking · productivity · productivity-tool · web-annotation</sub>
 
 <img src="https://raw.githubusercontent.com/didvc/better-super-simple-highlighter/main/resources/screenshots/02-colour-picker.png" alt="better-super-simple-highlighter" width="480">
+
+<hr>
+
+Alle meine Projekte gibt es, falls du interessiert bist, nach Kategorien sortiert unter [sorry, noch im Aufbau. Vielleicht in ein, zwei Monaten.]
 
 </details>
 

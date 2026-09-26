@@ -6,8 +6,7 @@
 
 為了更好地保護數位藝術、維持對內容來源的掌控，我正在探索各種工具，例如使用 OpenTimestamps 進行來源追蹤、代理式（agentic）系統中的選擇性揭露、可驗證憑證（Verifiable Credentials），以及 C2PA 標準。
 
-<details>
-<summary><h2>專案</h2></summary>
+## 專案
 
 [my-synthv-list](https://github.com/voca-synth/my-synthv-list)  
 從 YouTube 建立屬於你自己的 Vocaloid、Synthesizer V 或任何音樂播放清單  
@@ -15,7 +14,8 @@
 
 <img src="https://raw.githubusercontent.com/voca-synth/my-synthv-list/main/docs/screenshots/hero.png" alt="my-synthv-list" width="480">
 
-<hr>
+<details>
+<summary><h3>更多</h3></summary>
 
 [manga-vastai](https://github.com/anime-research/manga-vastai)  
 在 Vast.ai 上以 Stable Diffusion 編排教育用四格漫畫製作流程的重現  
@@ -54,6 +54,10 @@
 <sub>annotation · chrome-extension · highlighter · highlighting · note-taking · notetaking · productivity · productivity-tool · web-annotation</sub>
 
 <img src="https://raw.githubusercontent.com/didvc/better-super-simple-highlighter/main/resources/screenshots/02-colour-picker.png" alt="better-super-simple-highlighter" width="480">
+
+<hr>
+
+如果你有興趣，我所有的專案都依類別整理在 [抱歉，還在建置中，大概再一兩個月。]。
 
 </details>
 

@@ -58,7 +58,18 @@ const entries = REPOS.map(({ repo, description, image }) => {
   return entry + "\n";
 });
 
-const part = entries.join("<hr>\n\n");
+// Shown at the end of the "More" section
+const CLOSING =
+  "For all of my projects, if you're interested, they're category-organized at [sorry, still under construction. Maybe in a month or two.]";
+
+// The first project stands alone under the heading; the rest fold into a collapsed "More" section
+const part =
+  entries[0] +
+  "<details>\n<summary><h3>More</h3></summary>\n\n" +
+  entries.slice(1).join("<hr>\n\n") +
+  "<hr>\n\n" +
+  CLOSING +
+  "\n\n</details>\n";
 writeFileSync(OUT, part);
 console.error(`Generated ${OUT}`);
 

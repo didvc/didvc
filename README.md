@@ -6,8 +6,7 @@ Although AI is nice for coding, learning, etc., I see issues in the way it influ
 
 I explore tools like provenance tracking with OpenTimestamps, selective disclosure in agentic systems, verifiable credentials, and C2PA standards to better protect digital arts and maintain control over content origins.
 
-<details>
-<summary><h2>Projects</h2></summary>
+## Projects
 
 <!-- projects:start -->
 [my-synthv-list](https://github.com/voca-synth/my-synthv-list)  
@@ -16,7 +15,8 @@ Create your own Vocaloid, Synthesizer V, or any music playlist from YouTube
 
 <img src="https://raw.githubusercontent.com/voca-synth/my-synthv-list/main/docs/screenshots/hero.png" alt="my-synthv-list" width="480">
 
-<hr>
+<details>
+<summary><h3>More</h3></summary>
 
 [manga-vastai](https://github.com/anime-research/manga-vastai)  
 Reproduction: orchestrating educational yonkoma (4-panel manga) production with Stable Diffusion on Vast.ai  
@@ -55,9 +55,13 @@ Super Simple Highlighter, the text highlighter Chrome extension, super enhanced.
 <sub>annotation · chrome-extension · highlighter · highlighting · note-taking · notetaking · productivity · productivity-tool · web-annotation</sub>
 
 <img src="https://raw.githubusercontent.com/didvc/better-super-simple-highlighter/main/resources/screenshots/02-colour-picker.png" alt="better-super-simple-highlighter" width="480">
-<!-- projects:end -->
+
+<hr>
+
+For all of my projects, if you're interested, they're category-organized at [sorry, still under construction. Maybe in a month or two.]
 
 </details>
+<!-- projects:end -->
 
 <img src="assets/splitter-1.png" alt="" width="100%">
 

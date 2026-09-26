@@ -6,8 +6,7 @@ AIはコーディングや学習などには便利ですが、イラスト、3D�
 
 デジタルアートをよりよく守り、コンテンツの出自を自分の手で管理し続けるために、OpenTimestampsによる来歴追跡、エージェント型システムにおける選択的開示、検証可能なクレデンシャル（VC）、C2PA規格といったツールを探求しています。
 
-<details>
-<summary><h2>プロジェクト</h2></summary>
+## プロジェクト
 
 [my-synthv-list](https://github.com/voca-synth/my-synthv-list)  
 YouTubeから、ボカロやSynthesizer V、そのほかどんな音楽でも自分だけのプレイリストを作成  
@@ -15,7 +14,8 @@ YouTubeから、ボカロやSynthesizer V、そのほかどんな音楽でも自
 
 <img src="https://raw.githubusercontent.com/voca-synth/my-synthv-list/main/docs/screenshots/hero.png" alt="my-synthv-list" width="480">
 
-<hr>
+<details>
+<summary><h3>もっと見る</h3></summary>
 
 [manga-vastai](https://github.com/anime-research/manga-vastai)  
 Vast.ai上のStable Diffusionで教育4コマ漫画の制作をオーケストレーションする再現  
@@ -54,6 +54,10 @@ Windowsデスクトップ向けのリプレイバッファソフトウェア。�
 <sub>annotation · chrome-extension · highlighter · highlighting · note-taking · notetaking · productivity · productivity-tool · web-annotation</sub>
 
 <img src="https://raw.githubusercontent.com/didvc/better-super-simple-highlighter/main/resources/screenshots/02-colour-picker.png" alt="better-super-simple-highlighter" width="480">
+
+<hr>
+
+私のすべてのプロジェクトは、興味があればカテゴリー別にまとめて [ごめんなさい、まだ準備中です。1〜2か月後くらいになりそうです。] で見られます。
 
 </details>
 

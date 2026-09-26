@@ -6,8 +6,7 @@ Aunque la IA es útil para programar, aprender, etc., veo problemas en la forma 
 
 Exploro herramientas como el seguimiento de procedencia con OpenTimestamps, la divulgación selectiva en sistemas agénticos, las credenciales verificables y los estándares C2PA, para proteger mejor el arte digital y mantener el control sobre el origen de los contenidos.
 
-<details>
-<summary><h2>Proyectos</h2></summary>
+## Proyectos
 
 [my-synthv-list](https://github.com/voca-synth/my-synthv-list)  
 Crea tu propia lista de reproducción de Vocaloid, Synthesizer V o cualquier música a partir de YouTube  
@@ -15,7 +14,8 @@ Crea tu propia lista de reproducción de Vocaloid, Synthesizer V o cualquier mú
 
 <img src="https://raw.githubusercontent.com/voca-synth/my-synthv-list/main/docs/screenshots/hero.png" alt="my-synthv-list" width="480">
 
-<hr>
+<details>
+<summary><h3>Más</h3></summary>
 
 [manga-vastai](https://github.com/anime-research/manga-vastai)  
 Reproducción: orquestación de la producción de yonkoma educativos (manga de 4 viñetas) con Stable Diffusion en Vast.ai  
@@ -54,6 +54,10 @@ Super Simple Highlighter, la extensión de Chrome para resaltar texto, súper me
 <sub>annotation · chrome-extension · highlighter · highlighting · note-taking · notetaking · productivity · productivity-tool · web-annotation</sub>
 
 <img src="https://raw.githubusercontent.com/didvc/better-super-simple-highlighter/main/resources/screenshots/02-colour-picker.png" alt="better-super-simple-highlighter" width="480">
+
+<hr>
+
+Si te interesa, todos mis proyectos están organizados por categorías en [perdón, todavía en construcción. Quizá en un mes o dos.]
 
 </details>
 

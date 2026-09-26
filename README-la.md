@@ -6,8 +6,7 @@ Quamquam intellegentia artificialis (AI) ad programmata scribenda, ad discendum 
 
 Instrumenta exploro, ut originis vestigationem per OpenTimestamps, patefactionem selectivam in systematibus agentibus, testimonia verificabilia (verifiable credentials) et normas C2PA, quo melius artes digitales protegam et originem contentorum in mea potestate retineam.
 
-<details>
-<summary><h2>Incepta</h2></summary>
+## Incepta
 
 [my-synthv-list](https://github.com/voca-synth/my-synthv-list)  
 Indicem musicum (playlist) tuum ipsius ex YouTube crea: Vocaloid, Synthesizer V vel cuiusvis musicae  
@@ -15,7 +14,8 @@ Indicem musicum (playlist) tuum ipsius ex YouTube crea: Vocaloid, Synthesizer V 
 
 <img src="https://raw.githubusercontent.com/voca-synth/my-synthv-list/main/docs/screenshots/hero.png" alt="my-synthv-list" width="480">
 
-<hr>
+<details>
+<summary><h3>Plura</h3></summary>
 
 [manga-vastai](https://github.com/anime-research/manga-vastai)  
 Reproductio: productio yonkoma didacticorum (manga quattuor tabularum) per Stable Diffusion in Vast.ai ordinata  
@@ -54,6 +54,10 @@ Super Simple Highlighter, extensio Chrome ad textum illuminandum, valde aucta.
 <sub>annotation · chrome-extension · highlighter · highlighting · note-taking · notetaking · productivity · productivity-tool · web-annotation</sub>
 
 <img src="https://raw.githubusercontent.com/didvc/better-super-simple-highlighter/main/resources/screenshots/02-colour-picker.png" alt="better-super-simple-highlighter" width="480">
+
+<hr>
+
+Omnia incepta mea, si tibi placet, in categorias digesta sunt apud [ignosce, adhuc aedificatur; fortasse mense uno aut altero.]
 
 </details>
 
