@@ -1,4 +1,4 @@
-English · [日本語](README-ja.md) · [繁體中文](README-zh-TW.md) · [简体中文](README-zh.md) · [Deutsch](README-de.md) · [Español](README-es.md) · [Latina](README-la.md)
+English · [繁體中文](README-zh-TW.md) · [简体中文](README-zh.md) · [Deutsch](README-de.md) · [Español](README-es.md) · [Latina](README-la.md)
 
 # Aesthetic Vulpes [ didvc ]
 
@@ -17,22 +17,6 @@ Create your own Vocaloid, Synthesizer V, or any music playlist from YouTube
 
 <details>
 <summary><h3>More</h3></summary>
-
-[manga-vastai](https://github.com/anime-research/manga-vastai)  
-Reproduction: orchestrating educational yonkoma (4-panel manga) production with Stable Diffusion on Vast.ai  
-<sub>agentic-orchestration · education · manga · stable-diffusion-cpp · vast-ai · vastai · yonkoma</sub>
-
-<img src="https://raw.githubusercontent.com/anime-research/manga-vastai/main/outputs/runs/m10_gijutsushi/sheets/w39_mizunomichi__lettered__deltas.jpg" alt="manga-vastai" width="480">
-
-<hr>
-
-[lpchart](https://github.com/didvc/lpchart)  
-Chart InfluxDB line protocol in your terminal. stats++  
-<sub>data-explorer · golang · influxdb · line-protocol · metrics · observability · timeseries · timeseries-analysis · timeseries-data · tui-go</sub>
-
-<img src="https://raw.githubusercontent.com/didvc/lpchart/master/docs/images/browser.png" alt="lpchart" width="480">
-
-<hr>
 
 [dead-mans-ping](https://github.com/didvc/dead-mans-ping)  
 dead man's switch, presence beacon, idle notifier. mouse (in)activity based.  

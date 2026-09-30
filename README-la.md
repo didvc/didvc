@@ -1,4 +1,4 @@
-[English](README.md) · [日本語](README-ja.md) · [繁體中文](README-zh-TW.md) · [简体中文](README-zh.md) · [Deutsch](README-de.md) · [Español](README-es.md) · Latina
+[English](README.md) · [繁體中文](README-zh-TW.md) · [简体中文](README-zh.md) · [Deutsch](README-de.md) · [Español](README-es.md) · Latina
 
 # Aesthetic Vulpes [ didvc ]
 
@@ -16,22 +16,6 @@ Indicem musicum (playlist) tuum ipsius ex YouTube crea: Vocaloid, Synthesizer V 
 
 <details>
 <summary><h3>Plura</h3></summary>
-
-[manga-vastai](https://github.com/anime-research/manga-vastai)  
-Reproductio: productio yonkoma didacticorum (manga quattuor tabularum) per Stable Diffusion in Vast.ai ordinata  
-<sub>agentic-orchestration · education · manga · stable-diffusion-cpp · vast-ai · vastai · yonkoma</sub>
-
-<img src="https://raw.githubusercontent.com/anime-research/manga-vastai/main/outputs/runs/m10_gijutsushi/sheets/w39_mizunomichi__lettered__deltas.jpg" alt="manga-vastai" width="480">
-
-<hr>
-
-[lpchart](https://github.com/didvc/lpchart)  
-Protocollum lineare InfluxDB in terminali tuo diagrammatis describe. stats++  
-<sub>data-explorer · golang · influxdb · line-protocol · metrics · observability · timeseries · timeseries-analysis · timeseries-data · tui-go</sub>
-
-<img src="https://raw.githubusercontent.com/didvc/lpchart/master/docs/images/browser.png" alt="lpchart" width="480">
-
-<hr>
 
 [dead-mans-ping](https://github.com/didvc/dead-mans-ping)  
 Commutator hominis mortui (dead man's switch), signum praesentiae, nuntius otii. Ex motu quieteve muris pendet.  

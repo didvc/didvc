@@ -12,16 +12,6 @@ const REPOS = [
     image: "https://raw.githubusercontent.com/voca-synth/my-synthv-list/main/docs/screenshots/hero.png",
   },
   {
-    repo: "anime-research/manga-vastai",
-    description:
-      "Reproduction: orchestrating educational yonkoma (4-panel manga) production with Stable Diffusion on Vast.ai",
-    image: "https://raw.githubusercontent.com/anime-research/manga-vastai/main/outputs/runs/m10_gijutsushi/sheets/w39_mizunomichi__lettered__deltas.jpg",
-  },
-  {
-    repo: "didvc/lpchart",
-    image: "https://raw.githubusercontent.com/didvc/lpchart/master/docs/images/browser.png",
-  },
-  {
     repo: "didvc/dead-mans-ping",
     image: "https://raw.githubusercontent.com/didvc/dead-mans-ping/main/assets/social-preview.png",
   },

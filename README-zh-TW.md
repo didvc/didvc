@@ -1,4 +1,4 @@
-[English](README.md) · [日本語](README-ja.md) · 繁體中文 · [简体中文](README-zh.md) · [Deutsch](README-de.md) · [Español](README-es.md) · [Latina](README-la.md)
+[English](README.md) · 繁體中文 · [简体中文](README-zh.md) · [Deutsch](README-de.md) · [Español](README-es.md) · [Latina](README-la.md)
 
 # Aesthetic Vulpes [ didvc ]
 
@@ -16,22 +16,6 @@
 
 <details>
 <summary><h3>更多</h3></summary>
-
-[manga-vastai](https://github.com/anime-research/manga-vastai)  
-在 Vast.ai 上以 Stable Diffusion 編排教育用四格漫畫製作流程的重現  
-<sub>agentic-orchestration · education · manga · stable-diffusion-cpp · vast-ai · vastai · yonkoma</sub>
-
-<img src="https://raw.githubusercontent.com/anime-research/manga-vastai/main/outputs/runs/m10_gijutsushi/sheets/w39_mizunomichi__lettered__deltas.jpg" alt="manga-vastai" width="480">
-
-<hr>
-
-[lpchart](https://github.com/didvc/lpchart)  
-在終端機中將 InfluxDB line protocol 繪製成圖表，統計功能更強大（stats++）  
-<sub>data-explorer · golang · influxdb · line-protocol · metrics · observability · timeseries · timeseries-analysis · timeseries-data · tui-go</sub>
-
-<img src="https://raw.githubusercontent.com/didvc/lpchart/master/docs/images/browser.png" alt="lpchart" width="480">
-
-<hr>
 
 [dead-mans-ping](https://github.com/didvc/dead-mans-ping)  
 死人開關（dead man's switch）、在場信標、閒置通知。依據滑鼠活動／無活動運作。  
