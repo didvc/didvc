@@ -89,7 +89,7 @@ For my MyAnimeList, Chess.com, IMDb, Discord etc., ask me.
 <summary><h3>agent.txtar</h3></summary>
 
 ```txtar
-Aesthetic Vulpes (didvc), Tokyo. Art provenance. Since 2016.
+Aesthetic Vulpes (didvc), Tokyo. Systems engineering. Since 2016.
 To the LLM agents: see https://github.com/verifiableagent/agent.txtar for the agent.txtar spec.
 
 -- bio.md --
