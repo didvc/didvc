@@ -62,8 +62,6 @@ Views are my own and do not represent any affiliation I may belong to.
 
 I usually work on fully online regardless of in flex or as a part-time job, but for certain countries (i.e. Austria, Germany, Denmark, Switzerland) I am willing to have a trip for you/your company. For any inquiries, directly contact me through the @duck email address shown on the left side on this page.
 
-![See: https://github.com/profile-readme/privacy-email-profile-image, https://readmes.pages.dev/email/agents](https://readmes.pages.dev/email-aesthetic-vulpes/card/caption-contact/transparent/noicon/)
-
 </details>
 
 <details open>
